@@ -1,0 +1,1462 @@
+[
+  {
+    "id": 1,
+    "content": "Read the question first, then identify exactly what the question is asking before reviewing the options."
+  },
+  {
+    "id": 2,
+    "content": "Prioritize airway, breathing, and circulation when a patient has an immediate threat to life."
+  },
+  {
+    "id": 3,
+    "content": "When several options are appropriate, choose the action that addresses the most immediate safety risk."
+  },
+  {
+    "id": 4,
+    "content": "Assess unstable patients before stable patients unless the stable patient has a time-critical need."
+  },
+  {
+    "id": 5,
+    "content": "Use the nursing process: assess before implementing an intervention when the situation is not an obvious emergency."
+  },
+  {
+    "id": 6,
+    "content": "Look for words such as first, priority, immediate, best, most important, and requires further teaching."
+  },
+  {
+    "id": 7,
+    "content": "Do not choose an intervention simply because it sounds helpful; make sure it directly addresses the problem in the stem."
+  },
+  {
+    "id": 8,
+    "content": "Protect the patient from harm before addressing less urgent comfort concerns."
+  },
+  {
+    "id": 9,
+    "content": "When a patient has a new change in condition, compare it with the patient's baseline."
+  },
+  {
+    "id": 10,
+    "content": "Expected findings usually require routine care; unexpected findings should trigger further assessment or intervention."
+  },
+  {
+    "id": 11,
+    "content": "Before administering a medication, verify the medication, patient, dose, route, time, and relevant assessment data."
+  },
+  {
+    "id": 12,
+    "content": "Check allergies before administering medications or treatments."
+  },
+  {
+    "id": 13,
+    "content": "Know the common adverse effects and serious toxicity signs of high-risk medications."
+  },
+  {
+    "id": 14,
+    "content": "Do not confuse a medication's expected side effect with a life-threatening adverse reaction."
+  },
+  {
+    "id": 15,
+    "content": "Insulin administration requires attention to the type of insulin, timing, glucose level, and meal schedule."
+  },
+  {
+    "id": 16,
+    "content": "With anticoagulants, monitor for bleeding and know the relevant laboratory values."
+  },
+  {
+    "id": 17,
+    "content": "With opioids, monitor respiratory status and level of consciousness."
+  },
+  {
+    "id": 18,
+    "content": "With antihypertensives, check blood pressure and relevant symptoms before administration."
+  },
+  {
+    "id": 19,
+    "content": "With diuretics, monitor fluid status, blood pressure, intake and output, and electrolytes."
+  },
+  {
+    "id": 20,
+    "content": "With potassium-altering medications, pay close attention to serum potassium and cardiac status."
+  },
+  {
+    "id": 21,
+    "content": "Never administer potassium intravenously by direct IV push."
+  },
+  {
+    "id": 22,
+    "content": "Teach patients to use medications exactly as prescribed and not to stop important therapies abruptly unless instructed."
+  },
+  {
+    "id": 23,
+    "content": "Medication teaching should include the purpose, administration instructions, important adverse effects, and when to seek help."
+  },
+  {
+    "id": 24,
+    "content": "Do not rely on memorizing isolated facts; connect medications to their clinical purpose and major safety concerns."
+  },
+  {
+    "id": 25,
+    "content": "Fall precautions are appropriate when a patient has impaired mobility, weakness, dizziness, confusion, or medication-related risk."
+  },
+  {
+    "id": 26,
+    "content": "Keep the environment clear and ensure needed items are within the patient's reach."
+  },
+  {
+    "id": 27,
+    "content": "Use appropriate identification and infection-control measures before patient care."
+  },
+  {
+    "id": 28,
+    "content": "Hand hygiene remains one of the most important ways to prevent healthcare-associated infections."
+  },
+  {
+    "id": 29,
+    "content": "Use standard precautions for all patients and add transmission-based precautions when indicated."
+  },
+  {
+    "id": 30,
+    "content": "Know the difference between contact, droplet, and airborne precautions."
+  },
+  {
+    "id": 31,
+    "content": "Protect immunocompromised patients from unnecessary exposure to infection."
+  },
+  {
+    "id": 32,
+    "content": "Monitor patients for early signs of deterioration rather than waiting for severe symptoms."
+  },
+  {
+    "id": 33,
+    "content": "Changes in mental status can be an early sign of hypoxia, infection, metabolic problems, or other deterioration."
+  },
+  {
+    "id": 34,
+    "content": "Always reassess after an intervention to determine whether the patient's condition improved."
+  },
+  {
+    "id": 35,
+    "content": "If an intervention does not produce the expected response, reassess the patient and consider the next appropriate action."
+  },
+  {
+    "id": 36,
+    "content": "Document objective findings and the care provided clearly and accurately."
+  },
+  {
+    "id": 37,
+    "content": "Do not delegate assessment, initial teaching, or evaluation of an unstable patient to an inappropriate team member."
+  },
+  {
+    "id": 38,
+    "content": "Delegation should match the task with the person's scope of practice, competence, and patient stability."
+  },
+  {
+    "id": 39,
+    "content": "Registered nurses retain responsibility for assessment, clinical judgment, teaching, and evaluation."
+  },
+  {
+    "id": 40,
+    "content": "Before delegating, consider whether the patient is stable and whether the task has predictable outcomes."
+  },
+  {
+    "id": 41,
+    "content": "An unexpected finding should make you pause and reassess rather than automatically continuing the plan."
+  },
+  {
+    "id": 42,
+    "content": "Pain is whatever the patient says it is; assess the patient's report and response to treatment."
+  },
+  {
+    "id": 43,
+    "content": "Use nonpharmacologic comfort measures when appropriate, while still addressing the underlying cause of discomfort."
+  },
+  {
+    "id": 44,
+    "content": "Respect patient preferences and involve the patient in decisions whenever possible."
+  },
+  {
+    "id": 45,
+    "content": "Patient education should be individualized to health literacy, culture, language, and readiness to learn."
+  },
+  {
+    "id": 46,
+    "content": "Use teach-back to confirm that a patient understands important instructions."
+  },
+  {
+    "id": 47,
+    "content": "Do not assume that nodding or agreeing means the patient understands the teaching."
+  },
+  {
+    "id": 48,
+    "content": "Prioritize interventions that prevent complications before interventions that simply improve convenience."
+  },
+  {
+    "id": 49,
+    "content": "Think about what could harm the patient if you delay the intervention."
+  },
+  {
+    "id": 50,
+    "content": "Stable chronic problems usually have lower priority than new acute changes."
+  },
+  {
+    "id": 51,
+    "content": "An acute change in airway or breathing generally outranks a routine chronic complaint."
+  },
+  {
+    "id": 52,
+    "content": "Severe bleeding, respiratory distress, altered consciousness, and signs of shock require rapid attention."
+  },
+  {
+    "id": 53,
+    "content": "Use the patient's vital signs together with symptoms and clinical context rather than interpreting one number in isolation."
+  },
+  {
+    "id": 54,
+    "content": "A fever can be important, but the patient's overall condition determines priority."
+  },
+  {
+    "id": 55,
+    "content": "Monitor oxygenation and respiratory effort when respiratory compromise is suspected."
+  },
+  {
+    "id": 56,
+    "content": "Do not delay urgent intervention while collecting unnecessary information."
+  },
+  {
+    "id": 57,
+    "content": "When the stem gives enough information to identify an emergency, act on the emergency."
+  },
+  {
+    "id": 58,
+    "content": "Look for trends in vital signs, laboratory results, and symptoms rather than focusing only on one result."
+  },
+  {
+    "id": 59,
+    "content": "Laboratory values should always be interpreted in the context of the patient's condition and treatment."
+  },
+  {
+    "id": 60,
+    "content": "Know which laboratory values are especially relevant to the medications and conditions described in the question."
+  },
+  {
+    "id": 61,
+    "content": "Electrolyte abnormalities can produce neurologic, muscular, and cardiac changes."
+  },
+  {
+    "id": 62,
+    "content": "Fluid balance questions often require attention to intake, output, daily weight, edema, and lung sounds."
+  },
+  {
+    "id": 63,
+    "content": "Daily weight is useful for tracking changes in fluid status."
+  },
+  {
+    "id": 64,
+    "content": "Sudden weight gain may indicate fluid retention, depending on the clinical context."
+  },
+  {
+    "id": 65,
+    "content": "Dehydration can present with thirst, dry mucous membranes, reduced urine output, tachycardia, or hypotension."
+  },
+  {
+    "id": 66,
+    "content": "Shock can involve inadequate tissue perfusion and requires rapid recognition and intervention."
+  },
+  {
+    "id": 67,
+    "content": "Sepsis questions often emphasize early recognition of infection plus signs of organ dysfunction or poor perfusion."
+  },
+  {
+    "id": 68,
+    "content": "Do not dismiss new confusion or weakness in an older adult as simply normal aging."
+  },
+  {
+    "id": 69,
+    "content": "Older adults may present atypically, so subtle changes can be clinically significant."
+  },
+  {
+    "id": 70,
+    "content": "Fall risk increases with weakness, impaired balance, medications, confusion, and environmental hazards."
+  },
+  {
+    "id": 71,
+    "content": "Pressure injury prevention includes repositioning, skin assessment, moisture management, nutrition, and pressure relief."
+  },
+  {
+    "id": 72,
+    "content": "Inspect skin regularly when a patient has limited mobility or impaired sensation."
+  },
+  {
+    "id": 73,
+    "content": "Nutrition and hydration are important parts of recovery and wound healing."
+  },
+  {
+    "id": 74,
+    "content": "Encourage mobility when safe because immobility increases the risk of multiple complications."
+  },
+  {
+    "id": 75,
+    "content": "Deep breathing and coughing exercises can help prevent postoperative pulmonary complications when appropriate."
+  },
+  {
+    "id": 76,
+    "content": "Early ambulation after surgery is often encouraged when clinically safe."
+  },
+  {
+    "id": 77,
+    "content": "After surgery, monitor airway, breathing, circulation, pain, bleeding, and signs of complications."
+  },
+  {
+    "id": 78,
+    "content": "Unexpected postoperative deterioration requires prompt assessment."
+  },
+  {
+    "id": 79,
+    "content": "Know the expected postoperative findings so that abnormal findings stand out."
+  },
+  {
+    "id": 80,
+    "content": "Use aseptic technique according to the procedure and clinical setting."
+  },
+  {
+    "id": 81,
+    "content": "Sterile technique matters when a procedure requires a sterile field."
+  },
+  {
+    "id": 82,
+    "content": "Keep sterile items within the sterile field and avoid contaminating them."
+  },
+  {
+    "id": 83,
+    "content": "Do not touch sterile equipment with contaminated hands or objects."
+  },
+  {
+    "id": 84,
+    "content": "Catheter-associated infection prevention includes appropriate indication, aseptic insertion, and proper maintenance."
+  },
+  {
+    "id": 85,
+    "content": "Question whether an invasive device is still necessary because removing unnecessary devices can reduce complications."
+  },
+  {
+    "id": 86,
+    "content": "Respiratory assessment includes rate, rhythm, depth, effort, breath sounds, oxygenation, and associated symptoms."
+  },
+  {
+    "id": 87,
+    "content": "Stridor can indicate upper-airway obstruction and requires urgent attention."
+  },
+  {
+    "id": 88,
+    "content": "Wheezing can indicate narrowed airways and should be interpreted with the patient's overall condition."
+  },
+  {
+    "id": 89,
+    "content": "Crackles may occur with fluid or other pulmonary processes and should be assessed with other findings."
+  },
+  {
+    "id": 90,
+    "content": "Sudden chest pain with respiratory symptoms requires immediate assessment for potentially life-threatening causes."
+  },
+  {
+    "id": 91,
+    "content": "Do not assume chest pain is benign without assessing associated symptoms and risk factors."
+  },
+  {
+    "id": 92,
+    "content": "Neurologic assessment includes level of consciousness, orientation, pupils, movement, sensation, and speech as appropriate."
+  },
+  {
+    "id": 93,
+    "content": "A sudden change in speech, facial symmetry, or limb strength can indicate an acute neurologic emergency."
+  },
+  {
+    "id": 94,
+    "content": "For suspected stroke, time matters; follow the emergency pathway and determine when symptoms began."
+  },
+  {
+    "id": 95,
+    "content": "Seizure safety includes protecting the patient from injury and maintaining airway awareness."
+  },
+  {
+    "id": 96,
+    "content": "Do not restrain a patient during a seizure."
+  },
+  {
+    "id": 97,
+    "content": "Do not place objects in a patient's mouth during a seizure."
+  },
+  {
+    "id": 98,
+    "content": "After a seizure, assess airway, breathing, level of consciousness, and injury."
+  },
+  {
+    "id": 99,
+    "content": "Glasgow Coma Scale questions require attention to eye, verbal, and motor responses."
+  },
+  {
+    "id": 100,
+    "content": "Monitor neurologic changes over time because deterioration can be more important than one isolated assessment."
+  },
+  {
+    "id": 101,
+    "content": "Cardiac assessment includes symptoms, heart rate, rhythm, blood pressure, perfusion, and relevant ECG findings."
+  },
+  {
+    "id": 102,
+    "content": "Palpitations with instability require urgent evaluation."
+  },
+  {
+    "id": 103,
+    "content": "Signs of poor perfusion include altered mental status, cool skin, weak pulses, and hypotension depending on the situation."
+  },
+  {
+    "id": 104,
+    "content": "ECG rhythm questions are easier when you first assess rate, rhythm, QRS width, and P-wave characteristics."
+  },
+  {
+    "id": 105,
+    "content": "Do not diagnose an ECG rhythm from one feature alone; evaluate the complete tracing."
+  },
+  {
+    "id": 106,
+    "content": "With dysrhythmias, determine whether the patient is stable or unstable before choosing an intervention."
+  },
+  {
+    "id": 107,
+    "content": "An unstable patient with a serious dysrhythmia requires immediate action according to the emergency protocol."
+  },
+  {
+    "id": 108,
+    "content": "Heart failure care often focuses on fluid status, respiratory symptoms, weight trends, medications, and activity tolerance."
+  },
+  {
+    "id": 109,
+    "content": "Teach heart failure patients to monitor for worsening shortness of breath, edema, and rapid weight changes when instructed."
+  },
+  {
+    "id": 110,
+    "content": "Limit sodium and manage fluids according to the individualized plan for heart failure."
+  },
+  {
+    "id": 111,
+    "content": "Peripheral edema should be assessed along with lung sounds, weight, urine output, and other fluid-status findings."
+  },
+  {
+    "id": 112,
+    "content": "Hypertension is often asymptomatic, so adherence and long-term risk reduction are important."
+  },
+  {
+    "id": 113,
+    "content": "Teach patients taking antihypertensives to change positions carefully if orthostatic symptoms occur."
+  },
+  {
+    "id": 114,
+    "content": "Diabetes questions often require recognition of both hyperglycemia and hypoglycemia."
+  },
+  {
+    "id": 115,
+    "content": "Hypoglycemia can cause sweating, tremor, hunger, confusion, weakness, and other symptoms."
+  },
+  {
+    "id": 116,
+    "content": "Treat hypoglycemia according to the patient's condition and the prescribed protocol."
+  },
+  {
+    "id": 117,
+    "content": "Patients using insulin should understand glucose monitoring, meal timing, administration, and signs of hypoglycemia."
+  },
+  {
+    "id": 118,
+    "content": "Foot care is important for patients with diabetes because impaired sensation can delay recognition of injury."
+  },
+  {
+    "id": 119,
+    "content": "Encourage patients with diabetes to inspect their feet regularly and protect them from injury."
+  },
+  {
+    "id": 120,
+    "content": "Hyperglycemia can cause increased thirst and urination and may progress to serious metabolic complications."
+  },
+  {
+    "id": 121,
+    "content": "Know the difference between diabetic ketoacidosis and hyperosmolar hyperglycemic states at a conceptual level."
+  },
+  {
+    "id": 122,
+    "content": "Thyroid disorders can affect heart rate, temperature tolerance, weight, energy, and mental status."
+  },
+  {
+    "id": 123,
+    "content": "Monitor airway closely after neck or thyroid surgery because swelling can compromise breathing."
+  },
+  {
+    "id": 124,
+    "content": "Adrenal disorders can cause important changes in blood pressure, electrolytes, and glucose."
+  },
+  {
+    "id": 125,
+    "content": "Renal problems require attention to urine output, fluid status, electrolytes, blood pressure, and medication effects."
+  },
+  {
+    "id": 126,
+    "content": "Monitor potassium carefully in patients with significant renal impairment."
+  },
+  {
+    "id": 127,
+    "content": "Patients receiving dialysis may have specific restrictions and access-site precautions."
+  },
+  {
+    "id": 128,
+    "content": "Protect dialysis access and avoid unnecessary blood pressure measurements or venipuncture in the affected limb when indicated."
+  },
+  {
+    "id": 129,
+    "content": "Monitor for infection and bleeding at vascular access sites."
+  },
+  {
+    "id": 130,
+    "content": "Urinary retention can present with discomfort, frequency, small amounts of urine, or bladder distention."
+  },
+  {
+    "id": 131,
+    "content": "Reduced urine output can indicate dehydration, obstruction, kidney dysfunction, or other serious problems."
+  },
+  {
+    "id": 132,
+    "content": "GI bleeding may present with hematemesis, melena, hematochezia, weakness, or signs of poor perfusion."
+  },
+  {
+    "id": 133,
+    "content": "Assess abdominal pain with location, onset, quality, severity, associated symptoms, and changes over time."
+  },
+  {
+    "id": 134,
+    "content": "Do not give oral intake when a patient has a condition or procedure requiring bowel rest unless ordered."
+  },
+  {
+    "id": 135,
+    "content": "Postoperative nausea and vomiting can increase aspiration and wound-complication risks."
+  },
+  {
+    "id": 136,
+    "content": "Monitor patients for aspiration risk when swallowing or consciousness is impaired."
+  },
+  {
+    "id": 137,
+    "content": "Use aspiration precautions when clinically indicated."
+  },
+  {
+    "id": 138,
+    "content": "Nutrition questions may require identifying a patient's ability to swallow safely before feeding."
+  },
+  {
+    "id": 139,
+    "content": "Pregnancy questions often require recognizing expected physiologic changes versus warning signs."
+  },
+  {
+    "id": 140,
+    "content": "Report significant vaginal bleeding, severe abdominal pain, severe headache, vision changes, or other concerning pregnancy symptoms promptly."
+  },
+  {
+    "id": 141,
+    "content": "Monitor fetal and maternal status together when evaluating pregnancy-related questions."
+  },
+  {
+    "id": 142,
+    "content": "During labor, assess maternal and fetal responses to contractions and interventions."
+  },
+  {
+    "id": 143,
+    "content": "Know that fetal heart-rate patterns provide information about fetal oxygenation and tolerance of labor."
+  },
+  {
+    "id": 144,
+    "content": "Late decelerations can indicate uteroplacental insufficiency and require prompt evaluation and intervention."
+  },
+  {
+    "id": 145,
+    "content": "Variable decelerations are commonly associated with cord compression and should be interpreted in context."
+  },
+  {
+    "id": 146,
+    "content": "After birth, monitor maternal bleeding, uterine tone, vital signs, and overall condition."
+  },
+  {
+    "id": 147,
+    "content": "A boggy uterus after delivery can indicate uterine atony and increased bleeding risk."
+  },
+  {
+    "id": 148,
+    "content": "Postpartum hemorrhage is a priority because significant blood loss can rapidly threaten circulation."
+  },
+  {
+    "id": 149,
+    "content": "Newborn assessment includes breathing, temperature, glucose risk, feeding, elimination, and signs of infection."
+  },
+  {
+    "id": 150,
+    "content": "Keep newborns warm because they have limited ability to maintain body temperature."
+  },
+  {
+    "id": 151,
+    "content": "Monitor newborn feeding and output because they provide useful information about adaptation and hydration."
+  },
+  {
+    "id": 152,
+    "content": "Safe sleep teaching includes placing infants on their backs on a firm sleep surface."
+  },
+  {
+    "id": 153,
+    "content": "Pediatric medication doses often depend on weight, so verify the correct weight and calculation."
+  },
+  {
+    "id": 154,
+    "content": "Use age-appropriate communication with children and involve caregivers appropriately."
+  },
+  {
+    "id": 155,
+    "content": "Children can deteriorate quickly, so changes in respiratory effort and behavior deserve close attention."
+  },
+  {
+    "id": 156,
+    "content": "Respiratory distress in children can present with retractions, nasal flaring, grunting, or changes in behavior."
+  },
+  {
+    "id": 157,
+    "content": "Assess hydration in children using intake, urine output, mucous membranes, tears, weight, and overall appearance."
+  },
+  {
+    "id": 158,
+    "content": "Use developmental level when interpreting a child's behavior and communication."
+  },
+  {
+    "id": 159,
+    "content": "Do not dismiss a caregiver's report of a significant change in a child."
+  },
+  {
+    "id": 160,
+    "content": "Mental health questions often emphasize safety, therapeutic communication, and assessment of risk."
+  },
+  {
+    "id": 161,
+    "content": "When suicide risk is suspected, ask directly about suicidal thoughts, plans, means, and intent as appropriate."
+  },
+  {
+    "id": 162,
+    "content": "Never leave a patient at immediate risk of self-harm unattended when safety requires constant observation."
+  },
+  {
+    "id": 163,
+    "content": "Therapeutic communication focuses on open-ended questions, reflection, clarification, and presence."
+  },
+  {
+    "id": 164,
+    "content": "Avoid giving false reassurance or making promises you cannot keep."
+  },
+  {
+    "id": 165,
+    "content": "Avoid asking 'why' in a way that sounds judgmental."
+  },
+  {
+    "id": 166,
+    "content": "Do not argue with a patient's feelings; acknowledge the emotion and explore the concern."
+  },
+  {
+    "id": 167,
+    "content": "Set clear, consistent limits when behavior is unsafe or disruptive."
+  },
+  {
+    "id": 168,
+    "content": "Assess for violence risk when a patient expresses threats or escalating aggression."
+  },
+  {
+    "id": 169,
+    "content": "Maintain professional boundaries while providing therapeutic support."
+  },
+  {
+    "id": 170,
+    "content": "Respect patient confidentiality and share information only with those who have a legitimate need to know."
+  },
+  {
+    "id": 171,
+    "content": "Informed consent is generally obtained before procedures by the appropriate provider, while the nurse verifies understanding and voluntariness according to policy."
+  },
+  {
+    "id": 172,
+    "content": "Patients have the right to participate in decisions about their care."
+  },
+  {
+    "id": 173,
+    "content": "Advance directives communicate patient preferences for future healthcare decisions."
+  },
+  {
+    "id": 174,
+    "content": "Know the difference between informed consent and routine nursing care."
+  },
+  {
+    "id": 175,
+    "content": "Use an interpreter rather than relying on family members when accurate communication is required."
+  },
+  {
+    "id": 176,
+    "content": "Respect cultural preferences while maintaining safety and evidence-based care."
+  },
+  {
+    "id": 177,
+    "content": "Never assume that a patient's cultural practice means they do not want appropriate medical care."
+  },
+  {
+    "id": 178,
+    "content": "Teach-back can reveal misunderstandings before the patient leaves the healthcare setting."
+  },
+  {
+    "id": 179,
+    "content": "Discharge teaching should focus on what the patient needs to safely manage care at home."
+  },
+  {
+    "id": 180,
+    "content": "Prioritize teaching about warning signs, medications, follow-up, equipment, and when to seek help."
+  },
+  {
+    "id": 181,
+    "content": "Confirm that the patient can demonstrate a skill when hands-on teaching is required."
+  },
+  {
+    "id": 182,
+    "content": "Use simple language and avoid unnecessary medical jargon during patient education."
+  },
+  {
+    "id": 183,
+    "content": "Document education and the patient's response according to organizational policy."
+  },
+  {
+    "id": 184,
+    "content": "Isolation precautions should protect both the patient and healthcare workers."
+  },
+  {
+    "id": 185,
+    "content": "Know when personal protective equipment should be donned and removed."
+  },
+  {
+    "id": 186,
+    "content": "Remove contaminated PPE carefully to avoid self-contamination."
+  },
+  {
+    "id": 187,
+    "content": "Sharps should be disposed of immediately in the appropriate puncture-resistant container."
+  },
+  {
+    "id": 188,
+    "content": "Never recap a needle unless a specific approved procedure requires it."
+  },
+  {
+    "id": 189,
+    "content": "Medication errors should be addressed immediately according to organizational policy, with patient safety as the priority."
+  },
+  {
+    "id": 190,
+    "content": "Report significant changes in condition promptly through the appropriate chain of communication."
+  },
+  {
+    "id": 191,
+    "content": "Use structured communication such as SBAR when handing off important patient information."
+  },
+  {
+    "id": 192,
+    "content": "A good handoff includes the patient's current condition, relevant history, assessment, and recommended next steps."
+  },
+  {
+    "id": 193,
+    "content": "Do not omit critical abnormal findings during handoff."
+  },
+  {
+    "id": 194,
+    "content": "Cluster care when appropriate to promote rest while still meeting safety and clinical needs."
+  },
+  {
+    "id": 195,
+    "content": "Respect sleep and rest because fatigue can affect recovery and coping."
+  },
+  {
+    "id": 196,
+    "content": "Pain reassessment should occur after treatment within an appropriate timeframe."
+  },
+  {
+    "id": 197,
+    "content": "Use objective and subjective data together when assessing pain."
+  },
+  {
+    "id": 198,
+    "content": "Nonpharmacologic pain measures may include positioning, relaxation, heat or cold when appropriate, distraction, and other ordered methods."
+  },
+  {
+    "id": 199,
+    "content": "Do not assume that a patient who is smiling or calm is pain-free."
+  },
+  {
+    "id": 200,
+    "content": "Respiratory depression is a major safety concern with opioid therapy."
+  },
+  {
+    "id": 201,
+    "content": "Monitor sedation as well as respiratory rate when opioids are administered."
+  },
+  {
+    "id": 202,
+    "content": "Antibiotics should be taken as prescribed unless the prescriber changes the plan."
+  },
+  {
+    "id": 203,
+    "content": "Ask about medication allergies and previous reactions before giving antibiotics."
+  },
+  {
+    "id": 204,
+    "content": "Monitor for severe allergic reactions such as airway swelling, respiratory difficulty, or circulatory compromise."
+  },
+  {
+    "id": 205,
+    "content": "Anaphylaxis is an emergency; prioritize airway and circulation and follow the emergency protocol."
+  },
+  {
+    "id": 206,
+    "content": "Know that epinephrine is the first-line medication for anaphylaxis in appropriate patients."
+  },
+  {
+    "id": 207,
+    "content": "After an allergic reaction, continue monitoring because symptoms can recur."
+  },
+  {
+    "id": 208,
+    "content": "Asthma questions often emphasize airway assessment, trigger avoidance, rescue therapy, and response to treatment."
+  },
+  {
+    "id": 209,
+    "content": "A rescue bronchodilator is used for rapid symptom relief according to the prescribed plan."
+  },
+  {
+    "id": 210,
+    "content": "Controller medications are intended for ongoing management rather than immediate relief unless specifically indicated."
+  },
+  {
+    "id": 211,
+    "content": "Teach inhaler technique and verify understanding through demonstration."
+  },
+  {
+    "id": 212,
+    "content": "Use a spacer when prescribed or appropriate for metered-dose inhaler therapy."
+  },
+  {
+    "id": 213,
+    "content": "COPD care often includes breathing techniques, medication adherence, oxygen considerations, and energy conservation."
+  },
+  {
+    "id": 214,
+    "content": "Do not automatically assume that every COPD patient should receive unrestricted high-flow oxygen; follow the clinical situation and prescribed targets."
+  },
+  {
+    "id": 215,
+    "content": "Pneumonia care includes monitoring respiratory status, oxygenation, temperature, hydration, and response to treatment."
+  },
+  {
+    "id": 216,
+    "content": "Encourage appropriate coughing, deep breathing, mobility, and hydration when not contraindicated."
+  },
+  {
+    "id": 217,
+    "content": "Tuberculosis requires appropriate airborne precautions and adherence to the treatment regimen."
+  },
+  {
+    "id": 218,
+    "content": "Teach patients with communicable diseases about infection-control measures and treatment adherence."
+  },
+  {
+    "id": 219,
+    "content": "Anemia questions may involve fatigue, weakness, pallor, shortness of breath, or reduced oxygen-carrying capacity."
+  },
+  {
+    "id": 220,
+    "content": "Bleeding risk is especially important when platelet counts are low or anticoagulants are being used."
+  },
+  {
+    "id": 221,
+    "content": "Neutropenia increases infection risk; monitor temperature and infection signs carefully."
+  },
+  {
+    "id": 222,
+    "content": "Protect neutropenic patients from avoidable infection exposure according to facility policy."
+  },
+  {
+    "id": 223,
+    "content": "Patients receiving chemotherapy may experience myelosuppression, nausea, fatigue, and other treatment-related effects."
+  },
+  {
+    "id": 224,
+    "content": "Monitor oral mucosa in patients receiving treatments that increase mucositis risk."
+  },
+  {
+    "id": 225,
+    "content": "Encourage appropriate oral care to reduce discomfort and infection risk."
+  },
+  {
+    "id": 226,
+    "content": "Cancer pain should be assessed regularly and treated according to the prescribed plan."
+  },
+  {
+    "id": 227,
+    "content": "Do not assume severe pain is unavoidable or should simply be tolerated."
+  },
+  {
+    "id": 228,
+    "content": "End-of-life care focuses on comfort, dignity, symptom management, and patient preferences."
+  },
+  {
+    "id": 229,
+    "content": "Respect advance directives and goals of care."
+  },
+  {
+    "id": 230,
+    "content": "Provide emotional support to patients and families during serious illness."
+  },
+  {
+    "id": 231,
+    "content": "Recognize that grief responses vary between individuals."
+  },
+  {
+    "id": 232,
+    "content": "Do not force a patient or family member to follow a particular grieving pattern."
+  },
+  {
+    "id": 233,
+    "content": "Burn care questions require attention to airway, breathing, circulation, fluid loss, pain, infection, and temperature regulation."
+  },
+  {
+    "id": 234,
+    "content": "With major burns, airway injury can worsen rapidly and requires early recognition."
+  },
+  {
+    "id": 235,
+    "content": "Monitor fluid status closely after significant burns according to the treatment plan."
+  },
+  {
+    "id": 236,
+    "content": "Prevent infection in burn patients through appropriate wound care and precautions."
+  },
+  {
+    "id": 237,
+    "content": "Fracture care includes neurovascular assessment, pain management, alignment, mobility, and complication prevention."
+  },
+  {
+    "id": 238,
+    "content": "After an injury, compare pulses, sensation, movement, color, and temperature with the unaffected side when appropriate."
+  },
+  {
+    "id": 239,
+    "content": "Compartment syndrome is a limb-threatening emergency characterized by escalating pain and neurovascular changes."
+  },
+  {
+    "id": 240,
+    "content": "Do not ignore pain that is disproportionate to the injury or poorly relieved by expected treatment."
+  },
+  {
+    "id": 241,
+    "content": "Traction requires maintaining prescribed alignment and avoiding unnecessary disruption of the setup."
+  },
+  {
+    "id": 242,
+    "content": "Postoperative orthopedic patients require attention to mobility, circulation, skin integrity, and clot prevention."
+  },
+  {
+    "id": 243,
+    "content": "Deep vein thrombosis can present with unilateral swelling, pain, warmth, or tenderness, but symptoms vary."
+  },
+  {
+    "id": 244,
+    "content": "Pulmonary embolism can cause sudden respiratory symptoms and requires urgent evaluation."
+  },
+  {
+    "id": 245,
+    "content": "Use prescribed clot-prevention measures for patients at risk of venous thromboembolism."
+  },
+  {
+    "id": 246,
+    "content": "Encourage safe mobility when ordered because immobility increases thromboembolic risk."
+  },
+  {
+    "id": 247,
+    "content": "Stroke prevention includes management of blood pressure, diabetes, smoking, lipids, and medication adherence."
+  },
+  {
+    "id": 248,
+    "content": "Teach patients to recognize sudden neurologic changes and seek emergency care immediately."
+  },
+  {
+    "id": 249,
+    "content": "Head injury questions require close neurologic monitoring and attention to worsening symptoms."
+  },
+  {
+    "id": 250,
+    "content": "Vomiting, worsening headache, decreasing consciousness, or new neurologic deficits after head injury are concerning findings."
+  },
+  {
+    "id": 251,
+    "content": "Do not give food or fluids to a patient with impaired consciousness because of aspiration risk."
+  },
+  {
+    "id": 252,
+    "content": "Spinal injury care emphasizes immobilization and careful assessment until injury is ruled out or appropriately managed."
+  },
+  {
+    "id": 253,
+    "content": "Never move a potentially unstable trauma patient unnecessarily."
+  },
+  {
+    "id": 254,
+    "content": "Prioritize life-threatening problems before definitive diagnosis in emergency questions."
+  },
+  {
+    "id": 255,
+    "content": "In mass-casualty questions, prioritize patients who can benefit from immediate intervention according to the triage system being tested."
+  },
+  {
+    "id": 256,
+    "content": "Triage priorities can differ from routine bedside priorities, so identify the context before choosing an answer."
+  },
+  {
+    "id": 257,
+    "content": "NCLEX questions often test whether you can recognize the safest action rather than recall the most detailed fact."
+  },
+  {
+    "id": 258,
+    "content": "When an option contains an absolute word such as always or never, evaluate it carefully; exceptions may exist."
+  },
+  {
+    "id": 259,
+    "content": "Do not choose an answer merely because it contains more medical terminology."
+  },
+  {
+    "id": 260,
+    "content": "Eliminate options that are unsafe, outside scope, or unrelated to the patient's problem."
+  },
+  {
+    "id": 261,
+    "content": "Eliminate answers that delay treatment of an obvious emergency."
+  },
+  {
+    "id": 262,
+    "content": "If two answers are similar, look for the one that is more specific to the patient's immediate need."
+  },
+  {
+    "id": 263,
+    "content": "Read every answer choice before deciding."
+  },
+  {
+    "id": 264,
+    "content": "Do not change an answer without a clear reason based on the question stem."
+  },
+  {
+    "id": 265,
+    "content": "Use only information provided in the question unless the question clearly requires standard nursing knowledge."
+  },
+  {
+    "id": 266,
+    "content": "Do not let a familiar diagnosis distract you from the actual priority asked in the question."
+  },
+  {
+    "id": 267,
+    "content": "For delegation questions, identify the task, patient stability, and qualifications before choosing the delegate."
+  },
+  {
+    "id": 268,
+    "content": "For assignment questions, match complexity and risk with the appropriate level of nursing responsibility."
+  },
+  {
+    "id": 269,
+    "content": "UAPs can perform routine, predictable tasks within their training, but assessment and evaluation remain nursing responsibilities."
+  },
+  {
+    "id": 270,
+    "content": "LPN/LVN responsibilities vary by jurisdiction and facility, so apply the scope described in the question."
+  },
+  {
+    "id": 271,
+    "content": "Safety questions often have an answer that prevents harm before it occurs."
+  },
+  {
+    "id": 272,
+    "content": "Restraints should be used only when legally and clinically appropriate and after less restrictive measures are considered."
+  },
+  {
+    "id": 273,
+    "content": "Monitor a restrained patient according to policy and the patient's clinical needs."
+  },
+  {
+    "id": 274,
+    "content": "Do not use restraints as punishment or for staff convenience."
+  },
+  {
+    "id": 275,
+    "content": "Patient identification should use the required identifiers before medications, procedures, and specimen collection."
+  },
+  {
+    "id": 276,
+    "content": "Label specimens correctly and follow collection requirements to prevent diagnostic errors."
+  },
+  {
+    "id": 277,
+    "content": "Verify blood products carefully according to institutional protocol before administration."
+  },
+  {
+    "id": 278,
+    "content": "During blood transfusion, monitor closely for a reaction, especially early after initiation."
+  },
+  {
+    "id": 279,
+    "content": "If a transfusion reaction is suspected, stop the transfusion and follow the emergency protocol."
+  },
+  {
+    "id": 280,
+    "content": "Never add medications directly to blood products unless specifically permitted by policy."
+  },
+  {
+    "id": 281,
+    "content": "Know the purpose and major safety concerns of common diagnostic tests included in nursing questions."
+  },
+  {
+    "id": 282,
+    "content": "Before a procedure, verify required preparation, consent status, allergies, and relevant laboratory results as appropriate."
+  },
+  {
+    "id": 283,
+    "content": "After a procedure, monitor for expected recovery and potential complications."
+  },
+  {
+    "id": 284,
+    "content": "Contrast reactions can be serious; monitor for allergic or respiratory symptoms when contrast is administered."
+  },
+  {
+    "id": 285,
+    "content": "Renal function can influence the safety of certain medications and contrast studies."
+  },
+  {
+    "id": 286,
+    "content": "Always consider kidney and liver function when medication clearance is clinically relevant."
+  },
+  {
+    "id": 287,
+    "content": "Pregnant patients require medication and diagnostic considerations that protect both patient and fetus."
+  },
+  {
+    "id": 288,
+    "content": "Do not assume an over-the-counter medication is automatically safe during pregnancy."
+  },
+  {
+    "id": 289,
+    "content": "Breastfeeding questions require attention to medication safety and individualized guidance."
+  },
+  {
+    "id": 290,
+    "content": "Newborn jaundice should be assessed in context, including age, severity, feeding, and other risk factors."
+  },
+  {
+    "id": 291,
+    "content": "Monitor newborns for temperature instability because both hypothermia and hyperthermia can be harmful."
+  },
+  {
+    "id": 292,
+    "content": "Safe newborn sleep practices reduce sleep-related risks."
+  },
+  {
+    "id": 293,
+    "content": "Car-seat teaching should follow current safety recommendations and proper installation guidance."
+  },
+  {
+    "id": 294,
+    "content": "Vaccination questions generally emphasize prevention, schedules, contraindications, and patient education."
+  },
+  {
+    "id": 295,
+    "content": "Do not give a vaccine when a true contraindication is present."
+  },
+  {
+    "id": 296,
+    "content": "Mental health medications may require monitoring for therapeutic response and important adverse effects."
+  },
+  {
+    "id": 297,
+    "content": "Antidepressant effects may take time; monitor closely for worsening symptoms or safety concerns after initiation or changes."
+  },
+  {
+    "id": 298,
+    "content": "Antipsychotic therapy can cause serious adverse effects that require prompt recognition."
+  },
+  {
+    "id": 299,
+    "content": "Neuroleptic malignant syndrome can involve severe rigidity, fever, altered mental status, and autonomic instability."
+  },
+  {
+    "id": 300,
+    "content": "Serotonin syndrome can involve agitation, autonomic changes, neuromuscular findings, and gastrointestinal symptoms."
+  },
+  {
+    "id": 301,
+    "content": "Lithium therapy requires attention to hydration, sodium balance, serum levels, and toxicity signs."
+  },
+  {
+    "id": 302,
+    "content": "Teach patients taking lithium to report significant vomiting, diarrhea, tremor, confusion, or other toxicity symptoms."
+  },
+  {
+    "id": 303,
+    "content": "Antidepressant and other psychiatric medication teaching should include adherence and important warning signs."
+  },
+  {
+    "id": 304,
+    "content": "Alcohol and sedating medications can increase central nervous system depression."
+  },
+  {
+    "id": 305,
+    "content": "Substance-use questions often prioritize airway, safety, withdrawal risk, and supportive care."
+  },
+  {
+    "id": 306,
+    "content": "Alcohol withdrawal can become severe and requires close monitoring in at-risk patients."
+  },
+  {
+    "id": 307,
+    "content": "Recognize that delirium is an acute change in attention and cognition and requires assessment for an underlying cause."
+  },
+  {
+    "id": 308,
+    "content": "Dementia is generally progressive, while delirium is acute and fluctuating; the distinction matters clinically."
+  },
+  {
+    "id": 309,
+    "content": "Use calm, simple communication with patients experiencing confusion."
+  },
+  {
+    "id": 310,
+    "content": "Reduce environmental overstimulation when caring for a confused or agitated patient."
+  },
+  {
+    "id": 311,
+    "content": "Do not confront a patient aggressively when they are experiencing hallucinations or delusions."
+  },
+  {
+    "id": 312,
+    "content": "Assess whether hallucinations or delusions create a safety risk before determining the next intervention."
+  },
+  {
+    "id": 313,
+    "content": "Encourage reality-based communication while maintaining therapeutic rapport."
+  },
+  {
+    "id": 314,
+    "content": "Know the difference between an expected therapeutic effect and a medication toxicity warning."
+  },
+  {
+    "id": 315,
+    "content": "Drug interactions can change medication levels or effects, so review the full medication list when relevant."
+  },
+  {
+    "id": 316,
+    "content": "Ask about prescription medications, over-the-counter products, supplements, and substances when medication safety is involved."
+  },
+  {
+    "id": 317,
+    "content": "Patients should not share prescription medications with others."
+  },
+  {
+    "id": 318,
+    "content": "Medication reconciliation helps prevent omissions, duplications, and interactions."
+  },
+  {
+    "id": 319,
+    "content": "Teach patients to keep an updated medication list and bring it to healthcare visits."
+  },
+  {
+    "id": 320,
+    "content": "Use teach-back after discharge medication teaching to identify misunderstandings."
+  },
+  {
+    "id": 321,
+    "content": "Prioritize follow-up for abnormal findings that can worsen without treatment."
+  },
+  {
+    "id": 322,
+    "content": "Know when a patient needs emergency care versus routine follow-up."
+  },
+  {
+    "id": 323,
+    "content": "Do not delay escalation when the patient is deteriorating despite initial interventions."
+  },
+  {
+    "id": 324,
+    "content": "Use rapid response or emergency resources according to facility policy when a patient's condition becomes unstable."
+  },
+  {
+    "id": 325,
+    "content": "Clinical judgment improves when you continuously reassess rather than treating the first impression as final."
+  },
+  {
+    "id": 326,
+    "content": "Ask yourself: What is happening, what is most dangerous, and what can I do safely right now?"
+  },
+  {
+    "id": 327,
+    "content": "For case studies, identify the patient's key cues before selecting the most appropriate action."
+  },
+  {
+    "id": 328,
+    "content": "Separate relevant cues from distracting information in long clinical stems."
+  },
+  {
+    "id": 329,
+    "content": "Look for relationships between symptoms, vital signs, laboratory results, medications, and history."
+  },
+  {
+    "id": 330,
+    "content": "When a case study changes over time, reassess priorities using the new information."
+  },
+  {
+    "id": 331,
+    "content": "Do not carry an earlier assumption forward if new evidence contradicts it."
+  },
+  {
+    "id": 332,
+    "content": "Identify the expected outcome of an intervention before deciding whether it was effective."
+  },
+  {
+    "id": 333,
+    "content": "Evaluation is incomplete until you compare the patient's response with the intended outcome."
+  },
+  {
+    "id": 334,
+    "content": "Prioritize interventions that are within your scope and supported by the information provided."
+  },
+  {
+    "id": 335,
+    "content": "Safety, physiologic stability, and clinical deterioration usually deserve attention before education or routine comfort."
+  },
+  {
+    "id": 336,
+    "content": "When an option says to notify the provider, ask whether an independent nursing action should occur first."
+  },
+  {
+    "id": 337,
+    "content": "Do not call the provider simply to avoid making a nursing decision when the intervention is clearly within nursing scope."
+  },
+  {
+    "id": 338,
+    "content": "When a finding is expected, continue appropriate monitoring rather than escalating unnecessarily."
+  },
+  {
+    "id": 339,
+    "content": "When a finding is unexpected and potentially dangerous, act promptly."
+  },
+  {
+    "id": 340,
+    "content": "Use clinical reasoning instead of memorizing one universal priority rule."
+  },
+  {
+    "id": 341,
+    "content": "NCLEX questions may intentionally include several true statements; choose the one that best fits the question."
+  },
+  {
+    "id": 342,
+    "content": "On select-all-that-apply questions, evaluate each option independently as true or false."
+  },
+  {
+    "id": 343,
+    "content": "Do not assume that selecting more answers increases your chance of being correct on a multiple-response item."
+  },
+  {
+    "id": 344,
+    "content": "For ordered-response questions, identify which action must logically occur first before later steps."
+  },
+  {
+    "id": 345,
+    "content": "For matrix questions, evaluate each row or statement independently using the information provided."
+  },
+  {
+    "id": 346,
+    "content": "Case-study questions reward recognition of changing priorities rather than memorizing a single diagnosis."
+  },
+  {
+    "id": 347,
+    "content": "Read exhibits such as laboratory values, medication lists, ECGs, and vital signs carefully before answering."
+  },
+  {
+    "id": 348,
+    "content": "Do not ignore an exhibit just because the stem seems familiar."
+  },
+  {
+    "id": 349,
+    "content": "Practice explaining why each wrong option is wrong; this strengthens clinical reasoning."
+  },
+  {
+    "id": 350,
+    "content": "After practice questions, review the rationale even when you answered correctly."
+  },
+  {
+    "id": 351,
+    "content": "Track recurring weak areas so your study time targets actual performance gaps."
+  },
+  {
+    "id": 352,
+    "content": "Do not spend all your study time on topics you already know well."
+  },
+  {
+    "id": 353,
+    "content": "Use spaced repetition instead of trying to memorize everything in one long session."
+  },
+  {
+    "id": 354,
+    "content": "Mix question types and subjects to practice switching between clinical contexts."
+  },
+  {
+    "id": 355,
+    "content": "Practice questions under realistic conditions to build pacing and concentration."
+  },
+  {
+    "id": 356,
+    "content": "Focus on reasoning patterns rather than memorizing the wording of practice questions."
+  },
+  {
+    "id": 357,
+    "content": "Keep a short error log of concepts you repeatedly miss."
+  },
+  {
+    "id": 358,
+    "content": "Review why you selected an incorrect option, not just which option was correct."
+  },
+  {
+    "id": 359,
+    "content": "Study the rationale until you can explain the decision in your own words."
+  },
+  {
+    "id": 360,
+    "content": "Use active recall by trying to answer before looking at notes."
+  },
+  {
+    "id": 361,
+    "content": "Break large topics into smaller clinical concepts that you can review repeatedly."
+  },
+  {
+    "id": 362,
+    "content": "Take short breaks during long study sessions to maintain attention."
+  },
+  {
+    "id": 363,
+    "content": "Protect sleep because fatigue can reduce attention, memory, and decision-making."
+  },
+  {
+    "id": 364,
+    "content": "Create a realistic study schedule that you can maintain consistently."
+  },
+  {
+    "id": 365,
+    "content": "Consistency is more valuable than occasional very long study sessions."
+  }
+]
