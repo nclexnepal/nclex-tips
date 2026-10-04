@@ -1,0 +1,2196 @@
+{
+  "version": 1,
+  "totalDays": 365,
+  "tips": [
+    {
+      "day": 1,
+      "category": "Priority",
+      "tip": "NCLEX Tip 1",
+      "content": "Prioritize airway, breathing, and circulation when the stem describes an immediate threat."
+    },
+    {
+      "day": 2,
+      "category": "Priority",
+      "tip": "NCLEX Tip 2",
+      "content": "Choose the unstable client before a stable client when findings show deterioration."
+    },
+    {
+      "day": 3,
+      "category": "Priority",
+      "tip": "NCLEX Tip 3",
+      "content": "Address an actual life-threatening problem before a potential complication."
+    },
+    {
+      "day": 4,
+      "category": "Priority",
+      "tip": "NCLEX Tip 4",
+      "content": "Use the word 'first' to identify the intervention that must happen before the others."
+    },
+    {
+      "day": 5,
+      "category": "Priority",
+      "tip": "NCLEX Tip 5",
+      "content": "Do not delay emergency treatment for a nonessential assessment step."
+    },
+    {
+      "day": 6,
+      "category": "Priority",
+      "tip": "NCLEX Tip 6",
+      "content": "Compare vital signs with the client's symptoms instead of reading one number in isolation."
+    },
+    {
+      "day": 7,
+      "category": "Priority",
+      "tip": "NCLEX Tip 7",
+      "content": "Sudden confusion or reduced consciousness can be a sign of clinical deterioration."
+    },
+    {
+      "day": 8,
+      "category": "Priority",
+      "tip": "NCLEX Tip 8",
+      "content": "New severe chest pain deserves priority over routine comfort needs."
+    },
+    {
+      "day": 9,
+      "category": "Priority",
+      "tip": "NCLEX Tip 9",
+      "content": "New respiratory distress should move ahead of routine teaching or documentation."
+    },
+    {
+      "day": 10,
+      "category": "Priority",
+      "tip": "NCLEX Tip 10",
+      "content": "Unexpected bleeding after a procedure requires prompt assessment and escalation."
+    },
+    {
+      "day": 11,
+      "category": "Priority",
+      "tip": "NCLEX Tip 11",
+      "content": "Look for changes from baseline when deciding which client needs attention first."
+    },
+    {
+      "day": 12,
+      "category": "Priority",
+      "tip": "NCLEX Tip 12",
+      "content": "Use safety as the tie-breaker when two answers appear clinically reasonable."
+    },
+    {
+      "day": 13,
+      "category": "Priority",
+      "tip": "NCLEX Tip 13",
+      "content": "Stable chronic findings are usually lower priority than a new acute change."
+    },
+    {
+      "day": 14,
+      "category": "Priority",
+      "tip": "NCLEX Tip 14",
+      "content": "Ask which option prevents the greatest immediate harm."
+    },
+    {
+      "day": 15,
+      "category": "Priority",
+      "tip": "NCLEX Tip 15",
+      "content": "Do not let a familiar diagnosis distract you from the most dangerous current finding."
+    },
+    {
+      "day": 16,
+      "category": "Priority",
+      "tip": "NCLEX Tip 16",
+      "content": "When circulation is compromised, think about perfusion, blood pressure, mental status, and urine output."
+    },
+    {
+      "day": 17,
+      "category": "Priority",
+      "tip": "NCLEX Tip 17",
+      "content": "An abnormal finding becomes more urgent when it is worsening over time."
+    },
+    {
+      "day": 18,
+      "category": "Priority",
+      "tip": "NCLEX Tip 18",
+      "content": "Prioritize the client whose condition could deteriorate rapidly."
+    },
+    {
+      "day": 19,
+      "category": "Priority",
+      "tip": "NCLEX Tip 19",
+      "content": "Use the clinical picture, not just the diagnosis label, to establish priority."
+    },
+    {
+      "day": 20,
+      "category": "Priority",
+      "tip": "NCLEX Tip 20",
+      "content": "After an intervention, reassess the response before moving to the next problem."
+    },
+    {
+      "day": 21,
+      "category": "Priority",
+      "tip": "NCLEX Tip 21",
+      "content": "Choose the least risky appropriate action when several interventions could help."
+    },
+    {
+      "day": 22,
+      "category": "Priority",
+      "tip": "NCLEX Tip 22",
+      "content": "Escalate rapidly when airway, breathing, circulation, or neurologic status suddenly worsens."
+    },
+    {
+      "day": 23,
+      "category": "Priority",
+      "tip": "NCLEX Tip 23",
+      "content": "Do not assume the loudest complaint is always the highest clinical priority."
+    },
+    {
+      "day": 24,
+      "category": "Priority",
+      "tip": "NCLEX Tip 24",
+      "content": "Read the entire stem before deciding which finding matters most."
+    },
+    {
+      "day": 25,
+      "category": "Priority",
+      "tip": "NCLEX Tip 25",
+      "content": "Look for clues about timing, severity, and change from baseline."
+    },
+    {
+      "day": 26,
+      "category": "Priority",
+      "tip": "NCLEX Tip 26",
+      "content": "An unexpected postoperative finding can be more important than expected pain."
+    },
+    {
+      "day": 27,
+      "category": "Priority",
+      "tip": "NCLEX Tip 27",
+      "content": "Prioritize a client with poor perfusion over one who is comfortable and stable."
+    },
+    {
+      "day": 28,
+      "category": "Priority",
+      "tip": "NCLEX Tip 28",
+      "content": "Use the question's requested outcome to guide the priority decision."
+    },
+    {
+      "day": 29,
+      "category": "Priority",
+      "tip": "NCLEX Tip 29",
+      "content": "Do not invent symptoms or history that are not provided."
+    },
+    {
+      "day": 30,
+      "category": "Priority",
+      "tip": "NCLEX Tip 30",
+      "content": "Select the action that directly addresses the problem described in the stem."
+    },
+    {
+      "day": 31,
+      "category": "Priority",
+      "tip": "NCLEX Tip 31",
+      "content": "Think about what could cause irreversible harm if treatment is delayed."
+    },
+    {
+      "day": 32,
+      "category": "Priority",
+      "tip": "NCLEX Tip 32",
+      "content": "Use ABCs as a framework, then let the actual clinical findings determine the priority."
+    },
+    {
+      "day": 33,
+      "category": "Priority",
+      "tip": "NCLEX Tip 33",
+      "content": "Consider whether the client can safely wait before choosing a lower-priority task."
+    },
+    {
+      "day": 34,
+      "category": "Priority",
+      "tip": "NCLEX Tip 34",
+      "content": "Prioritize safety before convenience."
+    },
+    {
+      "day": 35,
+      "category": "Priority",
+      "tip": "NCLEX Tip 35",
+      "content": "Identify the immediate threat before thinking about long-term management."
+    },
+    {
+      "day": 36,
+      "category": "Priority",
+      "tip": "NCLEX Tip 36",
+      "content": "Use trends when the question provides several sets of observations."
+    },
+    {
+      "day": 37,
+      "category": "Priority",
+      "tip": "NCLEX Tip 37",
+      "content": "An acute change in mental status should never be dismissed without assessment."
+    },
+    {
+      "day": 38,
+      "category": "Priority",
+      "tip": "NCLEX Tip 38",
+      "content": "Choose rapid escalation when the scenario indicates instability."
+    },
+    {
+      "day": 39,
+      "category": "Priority",
+      "tip": "NCLEX Tip 39",
+      "content": "Do not choose education first when the client is actively unstable."
+    },
+    {
+      "day": 40,
+      "category": "Priority",
+      "tip": "NCLEX Tip 40",
+      "content": "Consider oxygenation and ventilation separately when interpreting respiratory problems."
+    },
+    {
+      "day": 41,
+      "category": "Priority",
+      "tip": "NCLEX Tip 41",
+      "content": "Poor urine output can be an important clue to reduced perfusion or kidney dysfunction."
+    },
+    {
+      "day": 42,
+      "category": "Priority",
+      "tip": "NCLEX Tip 42",
+      "content": "New neurologic deficits should trigger urgent assessment."
+    },
+    {
+      "day": 43,
+      "category": "Priority",
+      "tip": "NCLEX Tip 43",
+      "content": "Look for signs of shock when hypotension occurs with other perfusion changes."
+    },
+    {
+      "day": 44,
+      "category": "Priority",
+      "tip": "NCLEX Tip 44",
+      "content": "Treat severe allergic reactions as emergencies when airway or circulation is affected."
+    },
+    {
+      "day": 45,
+      "category": "Priority",
+      "tip": "NCLEX Tip 45",
+      "content": "Do not postpone assessment of a potentially serious medication reaction."
+    },
+    {
+      "day": 46,
+      "category": "Priority",
+      "tip": "NCLEX Tip 46",
+      "content": "Prioritize the client with the greatest immediate risk, not necessarily the most complex diagnosis."
+    },
+    {
+      "day": 47,
+      "category": "Priority",
+      "tip": "NCLEX Tip 47",
+      "content": "Ask what finding would make you most concerned if you were the nurse at the bedside."
+    },
+    {
+      "day": 48,
+      "category": "Priority",
+      "tip": "NCLEX Tip 48",
+      "content": "Choose the answer that is safest and most directly supported by the evidence."
+    },
+    {
+      "day": 49,
+      "category": "Priority",
+      "tip": "NCLEX Tip 49",
+      "content": "Reassess after treatment to determine whether the expected response occurred."
+    },
+    {
+      "day": 50,
+      "category": "Priority",
+      "tip": "NCLEX Tip 50",
+      "content": "Remember that 'priority' is about urgency and risk, not simply importance."
+    },
+    {
+      "day": 51,
+      "category": "Priority",
+      "tip": "NCLEX Tip 51",
+      "content": "Separate expected findings from unexpected findings before deciding what needs action."
+    },
+    {
+      "day": 52,
+      "category": "Priority",
+      "tip": "NCLEX Tip 52",
+      "content": "Consider the client's age, diagnosis, procedure, and current status together."
+    },
+    {
+      "day": 53,
+      "category": "Priority",
+      "tip": "NCLEX Tip 53",
+      "content": "Look for worsening trends rather than reassuring yourself with one normal value."
+    },
+    {
+      "day": 54,
+      "category": "Priority",
+      "tip": "NCLEX Tip 54",
+      "content": "Prioritize airway protection when consciousness is significantly impaired."
+    },
+    {
+      "day": 55,
+      "category": "Priority",
+      "tip": "NCLEX Tip 55",
+      "content": "Severe respiratory effort can be more concerning than a mildly abnormal oxygen saturation alone."
+    },
+    {
+      "day": 56,
+      "category": "Priority",
+      "tip": "NCLEX Tip 56",
+      "content": "Do not let a normal single measurement hide a deteriorating overall picture."
+    },
+    {
+      "day": 57,
+      "category": "Priority",
+      "tip": "NCLEX Tip 57",
+      "content": "Think about immediate safety before routine discharge planning."
+    },
+    {
+      "day": 58,
+      "category": "Priority",
+      "tip": "NCLEX Tip 58",
+      "content": "Choose the action that can be performed safely within the nurse's role."
+    },
+    {
+      "day": 59,
+      "category": "Priority",
+      "tip": "NCLEX Tip 59",
+      "content": "Escalate when the client's condition exceeds routine nursing management."
+    },
+    {
+      "day": 60,
+      "category": "Priority",
+      "tip": "NCLEX Tip 60",
+      "content": "Do not choose a lower-level intervention when the stem clearly describes an emergency."
+    },
+    {
+      "day": 61,
+      "category": "Priority",
+      "tip": "NCLEX Tip 61",
+      "content": "Use clinical judgment rather than memorized priority rules alone."
+    },
+    {
+      "day": 62,
+      "category": "Priority",
+      "tip": "NCLEX Tip 62",
+      "content": "Ask: what can harm this client first?"
+    },
+    {
+      "day": 63,
+      "category": "Priority",
+      "tip": "NCLEX Tip 63",
+      "content": "Ask: what can I safely address right now?"
+    },
+    {
+      "day": 64,
+      "category": "Priority",
+      "tip": "NCLEX Tip 64",
+      "content": "Ask: what requires reassessment after intervention?"
+    },
+    {
+      "day": 65,
+      "category": "Priority",
+      "tip": "NCLEX Tip 65",
+      "content": "Ask: which finding represents the biggest change?"
+    },
+    {
+      "day": 66,
+      "category": "Priority",
+      "tip": "NCLEX Tip 66",
+      "content": "Ask: which option prevents the most serious complication?"
+    },
+    {
+      "day": 67,
+      "category": "Priority",
+      "tip": "NCLEX Tip 67",
+      "content": "Ask: who cannot safely wait?"
+    },
+    {
+      "day": 68,
+      "category": "Priority",
+      "tip": "NCLEX Tip 68",
+      "content": "Use the stem's exact wording to distinguish 'first' from 'best long-term' action."
+    },
+    {
+      "day": 69,
+      "category": "Priority",
+      "tip": "NCLEX Tip 69",
+      "content": "Do not confuse a possible complication with an already occurring emergency."
+    },
+    {
+      "day": 70,
+      "category": "Priority",
+      "tip": "NCLEX Tip 70",
+      "content": "Prioritize interventions that restore oxygenation, perfusion, or safety."
+    },
+    {
+      "day": 71,
+      "category": "Priority",
+      "tip": "NCLEX Tip 71",
+      "content": "Keep the client's current condition at the center of the decision."
+    },
+    {
+      "day": 72,
+      "category": "Medication",
+      "tip": "NCLEX Tip 72",
+      "content": "Verify the medication, client, dose, route, and timing before administration."
+    },
+    {
+      "day": 73,
+      "category": "Medication",
+      "tip": "NCLEX Tip 73",
+      "content": "Know the important assessment finding that should be checked before a high-risk medication."
+    },
+    {
+      "day": 74,
+      "category": "Medication",
+      "tip": "NCLEX Tip 74",
+      "content": "Connect every medication class with its major adverse effects and nursing considerations."
+    },
+    {
+      "day": 75,
+      "category": "Medication",
+      "tip": "NCLEX Tip 75",
+      "content": "Do not administer a medication blindly when the stem gives a relevant abnormal assessment."
+    },
+    {
+      "day": 76,
+      "category": "Medication",
+      "tip": "NCLEX Tip 76",
+      "content": "Recognize that excessive sedation after an opioid can signal respiratory compromise."
+    },
+    {
+      "day": 77,
+      "category": "Medication",
+      "tip": "NCLEX Tip 77",
+      "content": "Know that anticoagulants increase bleeding risk and require appropriate monitoring."
+    },
+    {
+      "day": 78,
+      "category": "Medication",
+      "tip": "NCLEX Tip 78",
+      "content": "Review insulin onset, peak, duration, and hypoglycemia precautions."
+    },
+    {
+      "day": 79,
+      "category": "Medication",
+      "tip": "NCLEX Tip 79",
+      "content": "Connect beta-blockers with heart rate and blood pressure assessment."
+    },
+    {
+      "day": 80,
+      "category": "Medication",
+      "tip": "NCLEX Tip 80",
+      "content": "Connect diuretics with fluid balance, blood pressure, and electrolyte monitoring."
+    },
+    {
+      "day": 81,
+      "category": "Medication",
+      "tip": "NCLEX Tip 81",
+      "content": "Know the major teaching points for commonly tested antihypertensive medications."
+    },
+    {
+      "day": 82,
+      "category": "Medication",
+      "tip": "NCLEX Tip 82",
+      "content": "Review ACE inhibitor adverse effects, including hypotension, potassium changes, and angioedema."
+    },
+    {
+      "day": 83,
+      "category": "Medication",
+      "tip": "NCLEX Tip 83",
+      "content": "Know the signs that may suggest digoxin toxicity and the relevant assessment priority."
+    },
+    {
+      "day": 84,
+      "category": "Medication",
+      "tip": "NCLEX Tip 84",
+      "content": "Do not assume more medication is better when the client has a concerning response."
+    },
+    {
+      "day": 85,
+      "category": "Medication",
+      "tip": "NCLEX Tip 85",
+      "content": "Separate an expected side effect from a serious adverse reaction."
+    },
+    {
+      "day": 86,
+      "category": "Medication",
+      "tip": "NCLEX Tip 86",
+      "content": "Know the purpose and major precautions of reversal agents commonly tested on NCLEX."
+    },
+    {
+      "day": 87,
+      "category": "Medication",
+      "tip": "NCLEX Tip 87",
+      "content": "Check allergies before giving medications."
+    },
+    {
+      "day": 88,
+      "category": "Medication",
+      "tip": "NCLEX Tip 88",
+      "content": "Use the ordered concentration carefully during medication calculations."
+    },
+    {
+      "day": 89,
+      "category": "Medication",
+      "tip": "NCLEX Tip 89",
+      "content": "Keep medication units consistent before starting a calculation."
+    },
+    {
+      "day": 90,
+      "category": "Medication",
+      "tip": "NCLEX Tip 90",
+      "content": "Estimate whether a calculated dose is clinically reasonable before selecting it."
+    },
+    {
+      "day": 91,
+      "category": "Medication",
+      "tip": "NCLEX Tip 91",
+      "content": "Review anticoagulant teaching and bleeding precautions."
+    },
+    {
+      "day": 92,
+      "category": "Medication",
+      "tip": "NCLEX Tip 92",
+      "content": "Know which medications commonly affect potassium, glucose, blood pressure, or heart rate."
+    },
+    {
+      "day": 93,
+      "category": "Medication",
+      "tip": "NCLEX Tip 93",
+      "content": "Review medication reconciliation as a safety process."
+    },
+    {
+      "day": 94,
+      "category": "Medication",
+      "tip": "NCLEX Tip 94",
+      "content": "Do not stop or change prescribed therapy without appropriate clinical direction unless the situation requires immediate safety action."
+    },
+    {
+      "day": 95,
+      "category": "Medication",
+      "tip": "NCLEX Tip 95",
+      "content": "Recognize anaphylaxis when medication exposure is followed by airway or circulatory symptoms."
+    },
+    {
+      "day": 96,
+      "category": "Medication",
+      "tip": "NCLEX Tip 96",
+      "content": "Know which findings require holding a medication according to the order or protocol."
+    },
+    {
+      "day": 97,
+      "category": "Medication",
+      "tip": "NCLEX Tip 97",
+      "content": "Use client-specific assessment data when deciding whether a medication is appropriate."
+    },
+    {
+      "day": 98,
+      "category": "Medication",
+      "tip": "NCLEX Tip 98",
+      "content": "Do not confuse medication indication with its adverse-effect profile."
+    },
+    {
+      "day": 99,
+      "category": "Medication",
+      "tip": "NCLEX Tip 99",
+      "content": "Study medications by class rather than memorizing isolated brand names."
+    },
+    {
+      "day": 100,
+      "category": "Medication",
+      "tip": "NCLEX Tip 100",
+      "content": "Link medication action to the expected therapeutic response."
+    },
+    {
+      "day": 101,
+      "category": "Medication",
+      "tip": "NCLEX Tip 101",
+      "content": "Link medication action to the adverse effect the nurse should monitor."
+    },
+    {
+      "day": 102,
+      "category": "Medication",
+      "tip": "NCLEX Tip 102",
+      "content": "Link medication teaching to what the client actually needs to do at home."
+    },
+    {
+      "day": 103,
+      "category": "Medication",
+      "tip": "NCLEX Tip 103",
+      "content": "Review high-alert medications more slowly and carefully."
+    },
+    {
+      "day": 104,
+      "category": "Medication",
+      "tip": "NCLEX Tip 104",
+      "content": "Double-check pediatric doses using weight and concentration."
+    },
+    {
+      "day": 105,
+      "category": "Medication",
+      "tip": "NCLEX Tip 105",
+      "content": "Review insulin safety with meals, glucose checks, and hypoglycemia management."
+    },
+    {
+      "day": 106,
+      "category": "Medication",
+      "tip": "NCLEX Tip 106",
+      "content": "Know the difference between anticoagulant and antiplatelet therapy at a high level."
+    },
+    {
+      "day": 107,
+      "category": "Medication",
+      "tip": "NCLEX Tip 107",
+      "content": "Review opioid safety, sedation, respiratory rate, and monitoring."
+    },
+    {
+      "day": 108,
+      "category": "Medication",
+      "tip": "NCLEX Tip 108",
+      "content": "Know why a medication is prescribed before memorizing its side effects."
+    },
+    {
+      "day": 109,
+      "category": "Medication",
+      "tip": "NCLEX Tip 109",
+      "content": "Use the client's renal and hepatic status when medication questions provide that information."
+    },
+    {
+      "day": 110,
+      "category": "Medication",
+      "tip": "NCLEX Tip 110",
+      "content": "Be alert for drug interactions when multiple medications appear in the stem."
+    },
+    {
+      "day": 111,
+      "category": "Medication",
+      "tip": "NCLEX Tip 111",
+      "content": "Do not overlook route-specific safety considerations."
+    },
+    {
+      "day": 112,
+      "category": "Medication",
+      "tip": "NCLEX Tip 112",
+      "content": "Review IV medication administration principles and compatibility concepts."
+    },
+    {
+      "day": 113,
+      "category": "Medication",
+      "tip": "NCLEX Tip 113",
+      "content": "Know when a medication requires a pulse or blood-pressure check."
+    },
+    {
+      "day": 114,
+      "category": "Medication",
+      "tip": "NCLEX Tip 114",
+      "content": "Recognize medication-related orthostatic hypotension and fall risk."
+    },
+    {
+      "day": 115,
+      "category": "Medication",
+      "tip": "NCLEX Tip 115",
+      "content": "Review common electrolyte effects of diuretics."
+    },
+    {
+      "day": 116,
+      "category": "Medication",
+      "tip": "NCLEX Tip 116",
+      "content": "Know the teaching associated with medications requiring laboratory monitoring."
+    },
+    {
+      "day": 117,
+      "category": "Medication",
+      "tip": "NCLEX Tip 117",
+      "content": "Do not ignore new bruising, bleeding, or black stools in a client taking anticoagulants."
+    },
+    {
+      "day": 118,
+      "category": "Medication",
+      "tip": "NCLEX Tip 118",
+      "content": "Connect antibiotics with allergy assessment, adverse reactions, and adherence teaching."
+    },
+    {
+      "day": 119,
+      "category": "Medication",
+      "tip": "NCLEX Tip 119",
+      "content": "Know that severe medication reactions require escalation, not routine documentation alone."
+    },
+    {
+      "day": 120,
+      "category": "Medication",
+      "tip": "NCLEX Tip 120",
+      "content": "Use the medication's therapeutic goal to evaluate whether treatment is working."
+    },
+    {
+      "day": 121,
+      "category": "Medication",
+      "tip": "NCLEX Tip 121",
+      "content": "Reassess the client after giving a medication that should produce a measurable response."
+    },
+    {
+      "day": 122,
+      "category": "Medication",
+      "tip": "NCLEX Tip 122",
+      "content": "Do not rely on memorized normal values without considering the client's condition."
+    },
+    {
+      "day": 123,
+      "category": "Medication",
+      "tip": "NCLEX Tip 123",
+      "content": "Practice dosage calculations with dimensional analysis."
+    },
+    {
+      "day": 124,
+      "category": "Medication",
+      "tip": "NCLEX Tip 124",
+      "content": "Recheck decimal placement in medication calculations."
+    },
+    {
+      "day": 125,
+      "category": "Medication",
+      "tip": "NCLEX Tip 125",
+      "content": "Never treat a calculation question as a guessing exercise."
+    },
+    {
+      "day": 126,
+      "category": "Medication",
+      "tip": "NCLEX Tip 126",
+      "content": "Know the difference between an expected therapeutic effect and toxicity."
+    },
+    {
+      "day": 127,
+      "category": "Medication",
+      "tip": "NCLEX Tip 127",
+      "content": "Review medication storage and administration safety when relevant."
+    },
+    {
+      "day": 128,
+      "category": "Medication",
+      "tip": "NCLEX Tip 128",
+      "content": "Think about fall risk after medications that cause sedation or hypotension."
+    },
+    {
+      "day": 129,
+      "category": "Medication",
+      "tip": "NCLEX Tip 129",
+      "content": "Know common medication classes used in cardiovascular care."
+    },
+    {
+      "day": 130,
+      "category": "Medication",
+      "tip": "NCLEX Tip 130",
+      "content": "Know common medication classes used in diabetes care."
+    },
+    {
+      "day": 131,
+      "category": "Medication",
+      "tip": "NCLEX Tip 131",
+      "content": "Know common medication classes used in respiratory care."
+    },
+    {
+      "day": 132,
+      "category": "Medication",
+      "tip": "NCLEX Tip 132",
+      "content": "Know common medication classes used in mental health care."
+    },
+    {
+      "day": 133,
+      "category": "Medication",
+      "tip": "NCLEX Tip 133",
+      "content": "Review medication teaching for pregnancy and breastfeeding when relevant."
+    },
+    {
+      "day": 134,
+      "category": "Medication",
+      "tip": "NCLEX Tip 134",
+      "content": "Check for contraindications provided in the stem."
+    },
+    {
+      "day": 135,
+      "category": "Medication",
+      "tip": "NCLEX Tip 135",
+      "content": "Use laboratory trends when a medication requires ongoing monitoring."
+    },
+    {
+      "day": 136,
+      "category": "Medication",
+      "tip": "NCLEX Tip 136",
+      "content": "Know when the nurse should question an order because assessment findings conflict with safe administration."
+    },
+    {
+      "day": 137,
+      "category": "Medication",
+      "tip": "NCLEX Tip 137",
+      "content": "Keep medication safety centered on the individual client."
+    },
+    {
+      "day": 138,
+      "category": "Medication",
+      "tip": "NCLEX Tip 138",
+      "content": "Review the rationale after every medication question you miss."
+    },
+    {
+      "day": 139,
+      "category": "Medication",
+      "tip": "NCLEX Tip 139",
+      "content": "Create a one-page medication error log for recurring pharmacology weaknesses."
+    },
+    {
+      "day": 140,
+      "category": "Medication",
+      "tip": "NCLEX Tip 140",
+      "content": "Practice identifying medication priorities from realistic clinical scenarios."
+    },
+    {
+      "day": 141,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 141",
+      "content": "Use objective findings such as vital signs, symptoms, laboratory values, and trends to build the clinical picture."
+    },
+    {
+      "day": 142,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 142",
+      "content": "Compare current findings with baseline whenever the stem provides a baseline."
+    },
+    {
+      "day": 143,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 143",
+      "content": "Look for the finding that best explains the client's change in condition."
+    },
+    {
+      "day": 144,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 144",
+      "content": "Connect symptoms to the underlying pathophysiology instead of memorizing isolated facts."
+    },
+    {
+      "day": 145,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 145",
+      "content": "Respiratory distress should prompt attention to airway, breathing, oxygenation, and work of breathing."
+    },
+    {
+      "day": 146,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 146",
+      "content": "Crackles can be an important clue when fluid is accumulating in the lungs."
+    },
+    {
+      "day": 147,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 147",
+      "content": "Unilateral swelling and pain can raise concern for venous thromboembolism."
+    },
+    {
+      "day": 148,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 148",
+      "content": "Sudden dyspnea and chest pain can indicate an urgent pulmonary problem."
+    },
+    {
+      "day": 149,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 149",
+      "content": "Neurologic changes should be assessed promptly and compared with baseline."
+    },
+    {
+      "day": 150,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 150",
+      "content": "Sudden facial weakness, speech difficulty, or arm weakness should trigger stroke-focused thinking."
+    },
+    {
+      "day": 151,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 151",
+      "content": "Seizure care centers on injury prevention and airway awareness."
+    },
+    {
+      "day": 152,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 152",
+      "content": "Severe headache with neurologic changes can be clinically significant."
+    },
+    {
+      "day": 153,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 153",
+      "content": "Monitor fluid status using weight, intake and output, edema, and respiratory findings."
+    },
+    {
+      "day": 154,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 154",
+      "content": "Rapid weight gain can be an important clue to fluid retention."
+    },
+    {
+      "day": 155,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 155",
+      "content": "Daily weight can help track fluid changes in appropriate clients."
+    },
+    {
+      "day": 156,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 156",
+      "content": "Abnormal potassium can affect cardiac conduction and muscle function."
+    },
+    {
+      "day": 157,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 157",
+      "content": "Significant sodium abnormalities can produce neurologic changes."
+    },
+    {
+      "day": 158,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 158",
+      "content": "Calcium abnormalities can produce neuromuscular findings."
+    },
+    {
+      "day": 159,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 159",
+      "content": "Magnesium abnormalities can affect cardiac and neuromuscular function."
+    },
+    {
+      "day": 160,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 160",
+      "content": "Think about perfusion when urine output falls significantly."
+    },
+    {
+      "day": 161,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 161",
+      "content": "New confusion can be an early sign of deterioration, infection, hypoxia, or metabolic problems."
+    },
+    {
+      "day": 162,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 162",
+      "content": "Use the client's age and clinical context when interpreting findings."
+    },
+    {
+      "day": 163,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 163",
+      "content": "Differentiate expected postoperative findings from complications."
+    },
+    {
+      "day": 164,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 164",
+      "content": "Assess circulation, sensation, and movement distal to an injured extremity."
+    },
+    {
+      "day": 165,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 165",
+      "content": "Severe pain with tense swelling can raise concern for compartment syndrome."
+    },
+    {
+      "day": 166,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 166",
+      "content": "Protect a dialysis access site and assess its expected function."
+    },
+    {
+      "day": 167,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 167",
+      "content": "Monitor renal clients for fluid, electrolyte, blood-pressure, and urine-output changes."
+    },
+    {
+      "day": 168,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 168",
+      "content": "GI bleeding may present with characteristic stool or emesis changes plus hemodynamic symptoms."
+    },
+    {
+      "day": 169,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 169",
+      "content": "Abdominal pain should be interpreted with location, timing, associated symptoms, and examination findings."
+    },
+    {
+      "day": 170,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 170",
+      "content": "Burn care begins with attention to airway, breathing, circulation, and fluid loss."
+    },
+    {
+      "day": 171,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 171",
+      "content": "Postoperative clients require ongoing assessment for bleeding, infection, respiratory problems, and urinary issues."
+    },
+    {
+      "day": 172,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 172",
+      "content": "Heart failure questions often connect fluid retention with respiratory findings."
+    },
+    {
+      "day": 173,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 173",
+      "content": "Left-sided heart failure commonly produces pulmonary congestion clues."
+    },
+    {
+      "day": 174,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 174",
+      "content": "Right-sided heart failure commonly produces systemic venous congestion clues."
+    },
+    {
+      "day": 175,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 175",
+      "content": "Assess rhythm problems by first determining whether the client is hemodynamically stable."
+    },
+    {
+      "day": 176,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 176",
+      "content": "Tachycardia becomes more concerning when it produces poor perfusion or symptoms."
+    },
+    {
+      "day": 177,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 177",
+      "content": "Bradycardia becomes more concerning when it produces hypotension, altered mental status, or other instability."
+    },
+    {
+      "day": 178,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 178",
+      "content": "Shock is about inadequate tissue perfusion; look for multiple supporting clues."
+    },
+    {
+      "day": 179,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 179",
+      "content": "Sepsis questions require attention to infection plus systemic deterioration."
+    },
+    {
+      "day": 180,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 180",
+      "content": "Blood transfusion reactions require immediate recognition and action according to protocol."
+    },
+    {
+      "day": 181,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 181",
+      "content": "Pressure-injury prevention includes repositioning, skin care, moisture control, and pressure redistribution."
+    },
+    {
+      "day": 182,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 182",
+      "content": "Describe wounds objectively rather than using vague language."
+    },
+    {
+      "day": 183,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 183",
+      "content": "Use appropriate infection precautions based on transmission route."
+    },
+    {
+      "day": 184,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 184",
+      "content": "Hand hygiene remains a foundational infection-prevention action."
+    },
+    {
+      "day": 185,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 185",
+      "content": "Sterile technique depends on protecting the sterile field from contamination."
+    },
+    {
+      "day": 186,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 186",
+      "content": "Assess pain before and after pain-management interventions."
+    },
+    {
+      "day": 187,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 187",
+      "content": "Use both pharmacologic and appropriate nonpharmacologic pain strategies."
+    },
+    {
+      "day": 188,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 188",
+      "content": "Recognize aspiration risk in clients with swallowing problems or reduced consciousness."
+    },
+    {
+      "day": 189,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 189",
+      "content": "Follow appropriate enteral-feeding safety procedures."
+    },
+    {
+      "day": 190,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 190",
+      "content": "Monitor parenteral nutrition for glucose, electrolyte, infection, and line-related concerns."
+    },
+    {
+      "day": 191,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 191",
+      "content": "Children may deteriorate quickly, so respiratory and hydration assessment is important."
+    },
+    {
+      "day": 192,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 192",
+      "content": "Use weight-based calculations carefully in pediatric medication questions."
+    },
+    {
+      "day": 193,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 193",
+      "content": "Infant respiratory distress can present with retractions, grunting, flaring, or poor feeding."
+    },
+    {
+      "day": 194,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 194",
+      "content": "Pregnancy questions require attention to maternal and fetal status together."
+    },
+    {
+      "day": 195,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 195",
+      "content": "Severe hypertension in pregnancy with neurologic or other concerning findings requires prompt action."
+    },
+    {
+      "day": 196,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 196",
+      "content": "Postpartum heavy bleeding can become an emergency."
+    },
+    {
+      "day": 197,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 197",
+      "content": "Older adults may present atypically; compare findings with baseline."
+    },
+    {
+      "day": 198,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 198",
+      "content": "Acute fluctuating confusion suggests delirium more than a chronic progressive cognitive disorder."
+    },
+    {
+      "day": 199,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 199",
+      "content": "Suicide risk questions prioritize immediate safety and direct risk assessment."
+    },
+    {
+      "day": 200,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 200",
+      "content": "Psychosis questions require attention to command hallucinations and safety."
+    },
+    {
+      "day": 201,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 201",
+      "content": "Mania can include decreased need for sleep, rapid speech, impulsivity, and grandiosity."
+    },
+    {
+      "day": 202,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 202",
+      "content": "Depression questions require attention to hopelessness and self-harm risk."
+    },
+    {
+      "day": 203,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 203",
+      "content": "Use calm communication and reduce unnecessary stimulation for severe anxiety."
+    },
+    {
+      "day": 204,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 204",
+      "content": "Community health questions often test prevention levels, screening, education, and access."
+    },
+    {
+      "day": 205,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 205",
+      "content": "Primary prevention aims to prevent disease before it occurs."
+    },
+    {
+      "day": 206,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 206",
+      "content": "Secondary prevention focuses on screening and early detection."
+    },
+    {
+      "day": 207,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 207",
+      "content": "Tertiary prevention focuses on managing established disease and reducing disability."
+    },
+    {
+      "day": 208,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 208",
+      "content": "Disaster triage requires applying the stated triage framework to maximize safety and benefit."
+    },
+    {
+      "day": 209,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 209",
+      "content": "Use SBAR to organize urgent communication clearly."
+    },
+    {
+      "day": 210,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 210",
+      "content": "Document objective findings, interventions, responses, and required notifications."
+    },
+    {
+      "day": 211,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 211",
+      "content": "After a fall, assess the client before focusing on reporting procedures."
+    },
+    {
+      "day": 212,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 212",
+      "content": "Discharge planning should begin early and focus on what the client must safely do at home."
+    },
+    {
+      "day": 213,
+      "category": "Clinical",
+      "tip": "NCLEX Tip 213",
+      "content": "Teach-back helps confirm whether the client actually understands the instruction."
+    },
+    {
+      "day": 214,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 214",
+      "content": "Read the final sentence first enough to identify exactly what the question is asking."
+    },
+    {
+      "day": 215,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 215",
+      "content": "Look for words such as first, priority, immediate, best, and most important."
+    },
+    {
+      "day": 216,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 216",
+      "content": "Do not add facts that are not in the question."
+    },
+    {
+      "day": 217,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 217",
+      "content": "Eliminate answers that are clearly unsafe before comparing plausible choices."
+    },
+    {
+      "day": 218,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 218",
+      "content": "Be cautious with answers containing absolute words such as always or never."
+    },
+    {
+      "day": 219,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 219",
+      "content": "For SATA, evaluate each option independently instead of guessing how many answers are expected."
+    },
+    {
+      "day": 220,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 220",
+      "content": "For case studies, separate recognition of cues from interpretation of cues."
+    },
+    {
+      "day": 221,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 221",
+      "content": "Ask which findings are abnormal, unexpected, or worsening."
+    },
+    {
+      "day": 222,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 222",
+      "content": "Prioritize hypotheses using evidence from the case rather than the diagnosis alone."
+    },
+    {
+      "day": 223,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 223",
+      "content": "Choose solutions that directly address the prioritized problem."
+    },
+    {
+      "day": 224,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 224",
+      "content": "After an intervention, evaluate whether the expected outcome occurred."
+    },
+    {
+      "day": 225,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 225",
+      "content": "For matrix items, judge each row against the exact condition stated in the prompt."
+    },
+    {
+      "day": 226,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 226",
+      "content": "For bow-tie items, connect the central problem with appropriate actions and outcomes."
+    },
+    {
+      "day": 227,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 227",
+      "content": "Use exhibits only for information relevant to the question."
+    },
+    {
+      "day": 228,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 228",
+      "content": "Do not choose an option simply because it contains familiar medical terminology."
+    },
+    {
+      "day": 229,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 229",
+      "content": "When two options seem correct, ask which one is safer or more immediate."
+    },
+    {
+      "day": 230,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 230",
+      "content": "If the client is stable, assessment may come before intervention."
+    },
+    {
+      "day": 231,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 231",
+      "content": "If the client is unstable, an emergency intervention may come before a full assessment."
+    },
+    {
+      "day": 232,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 232",
+      "content": "Choose an answer that fits the nurse's scope of practice."
+    },
+    {
+      "day": 233,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 233",
+      "content": "Do not choose a provider-only action when a nursing action is being asked."
+    },
+    {
+      "day": 234,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 234",
+      "content": "Use the stem's timeline to distinguish expected from unexpected findings."
+    },
+    {
+      "day": 235,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 235",
+      "content": "Review why the wrong answers are wrong, not just why the right answer is right."
+    },
+    {
+      "day": 236,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 236",
+      "content": "Track whether mistakes come from knowledge, reading, prioritization, or calculation."
+    },
+    {
+      "day": 237,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 237",
+      "content": "Questions answered by guessing deserve review too."
+    },
+    {
+      "day": 238,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 238",
+      "content": "Do not change an answer simply because uncertainty feels uncomfortable."
+    },
+    {
+      "day": 239,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 239",
+      "content": "Use elimination when you can confidently remove unsafe or irrelevant options."
+    },
+    {
+      "day": 240,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 240",
+      "content": "Think about the client's immediate safety before long-term goals."
+    },
+    {
+      "day": 241,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 241",
+      "content": "Do not let one difficult question affect the next question."
+    },
+    {
+      "day": 242,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 242",
+      "content": "Treat each new case as a fresh clinical problem."
+    },
+    {
+      "day": 243,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 243",
+      "content": "Look for the key clue instead of trying to use every detail equally."
+    },
+    {
+      "day": 244,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 244",
+      "content": "Separate the client's current problem from background history."
+    },
+    {
+      "day": 245,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 245",
+      "content": "Use trends when multiple findings are provided over time."
+    },
+    {
+      "day": 246,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 246",
+      "content": "Check whether the answer actually addresses the question's wording."
+    },
+    {
+      "day": 247,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 247",
+      "content": "Choose the least restrictive appropriate option when safety allows."
+    },
+    {
+      "day": 248,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 248",
+      "content": "Choose the least invasive effective action when the client is stable and no emergency exists."
+    },
+    {
+      "day": 249,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 249",
+      "content": "Use direct evidence from the stem to support your choice."
+    },
+    {
+      "day": 250,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 250",
+      "content": "Do not select an answer because it sounds more sophisticated."
+    },
+    {
+      "day": 251,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 251",
+      "content": "NCLEX questions often test safe nursing judgment more than obscure facts."
+    },
+    {
+      "day": 252,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 252",
+      "content": "Ask what the nurse can do now, what should be monitored, and what needs escalation."
+    },
+    {
+      "day": 253,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 253",
+      "content": "Practice recognizing the difference between assessment, intervention, and evaluation."
+    },
+    {
+      "day": 254,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 254",
+      "content": "Use clinical reasoning rather than memorized answer patterns."
+    },
+    {
+      "day": 255,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 255",
+      "content": "Review rationales immediately after practice while the reasoning is fresh."
+    },
+    {
+      "day": 256,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 256",
+      "content": "Keep an error log and revisit recurring mistakes."
+    },
+    {
+      "day": 257,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 257",
+      "content": "Mix question types so you can transfer your reasoning skills."
+    },
+    {
+      "day": 258,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 258",
+      "content": "Practice timed sets occasionally to improve pacing."
+    },
+    {
+      "day": 259,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 259",
+      "content": "Do not sacrifice careful reading just to finish faster."
+    },
+    {
+      "day": 260,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 260",
+      "content": "Use a consistent process for every priority question."
+    },
+    {
+      "day": 261,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 261",
+      "content": "Before answering, identify the client, problem, key findings, and requested task."
+    },
+    {
+      "day": 262,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 262",
+      "content": "Look for hidden safety clues in medication, procedure, and environment details."
+    },
+    {
+      "day": 263,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 263",
+      "content": "Do not assume that every abnormal finding requires immediate treatment."
+    },
+    {
+      "day": 264,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 264",
+      "content": "Ask whether the finding is expected for the client's condition and timing."
+    },
+    {
+      "day": 265,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 265",
+      "content": "Use the client's response to treatment as evidence."
+    },
+    {
+      "day": 266,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 266",
+      "content": "Review the rationale for every uncertain answer."
+    },
+    {
+      "day": 267,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 267",
+      "content": "Practice explaining your choice in one sentence."
+    },
+    {
+      "day": 268,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 268",
+      "content": "If you cannot explain your choice, the concept deserves review."
+    },
+    {
+      "day": 269,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 269",
+      "content": "Use practice tests to find weak areas, not only to measure a score."
+    },
+    {
+      "day": 270,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 270",
+      "content": "Study errors by pattern rather than treating every missed question as unrelated."
+    },
+    {
+      "day": 271,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 271",
+      "content": "Keep your reasoning simple: identify the problem, prioritize it, act safely, reassess."
+    },
+    {
+      "day": 272,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 272",
+      "content": "Focus on evidence instead of test-taking superstition."
+    },
+    {
+      "day": 273,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 273",
+      "content": "Do not count how many SATA choices you 'feel' should be correct."
+    },
+    {
+      "day": 274,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 274",
+      "content": "Use the question's exact clinical context for every answer."
+    },
+    {
+      "day": 275,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 275",
+      "content": "Remember that more information is not always better information."
+    },
+    {
+      "day": 276,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 276",
+      "content": "Choose the response that best protects the client."
+    },
+    {
+      "day": 277,
+      "category": "QuestionStrategy",
+      "tip": "NCLEX Tip 277",
+      "content": "Practice until the reasoning process becomes consistent."
+    },
+    {
+      "day": 278,
+      "category": "Study",
+      "tip": "NCLEX Tip 278",
+      "content": "Use focused study blocks with one measurable goal."
+    },
+    {
+      "day": 279,
+      "category": "Study",
+      "tip": "NCLEX Tip 279",
+      "content": "Review missed rationales instead of immediately starting another question set."
+    },
+    {
+      "day": 280,
+      "category": "Study",
+      "tip": "NCLEX Tip 280",
+      "content": "Create an error log for recurring knowledge and reasoning gaps."
+    },
+    {
+      "day": 281,
+      "category": "Study",
+      "tip": "NCLEX Tip 281",
+      "content": "Use active recall by explaining a concept without looking at your notes."
+    },
+    {
+      "day": 282,
+      "category": "Study",
+      "tip": "NCLEX Tip 282",
+      "content": "Use spaced repetition for concepts you repeatedly forget."
+    },
+    {
+      "day": 283,
+      "category": "Study",
+      "tip": "NCLEX Tip 283",
+      "content": "Teach a concept in simple language to reveal gaps in understanding."
+    },
+    {
+      "day": 284,
+      "category": "Study",
+      "tip": "NCLEX Tip 284",
+      "content": "Mix question types to strengthen transfer of knowledge."
+    },
+    {
+      "day": 285,
+      "category": "Study",
+      "tip": "NCLEX Tip 285",
+      "content": "Use case studies to practice clinical judgment rather than memorization alone."
+    },
+    {
+      "day": 286,
+      "category": "Study",
+      "tip": "NCLEX Tip 286",
+      "content": "Build a short high-yield lab-value review list."
+    },
+    {
+      "day": 287,
+      "category": "Study",
+      "tip": "NCLEX Tip 287",
+      "content": "Practice dosage calculations regularly rather than cramming them before a test."
+    },
+    {
+      "day": 288,
+      "category": "Study",
+      "tip": "NCLEX Tip 288",
+      "content": "Keep calculation units consistent from the first step to the final answer."
+    },
+    {
+      "day": 289,
+      "category": "Study",
+      "tip": "NCLEX Tip 289",
+      "content": "Estimate calculation answers before accepting the final number."
+    },
+    {
+      "day": 290,
+      "category": "Study",
+      "tip": "NCLEX Tip 290",
+      "content": "Review pharmacology by class, action, adverse effects, and nursing considerations."
+    },
+    {
+      "day": 291,
+      "category": "Study",
+      "tip": "NCLEX Tip 291",
+      "content": "Connect pathophysiology with symptoms, labs, medications, and interventions."
+    },
+    {
+      "day": 292,
+      "category": "Study",
+      "tip": "NCLEX Tip 292",
+      "content": "Use your practice statistics to decide what to study next."
+    },
+    {
+      "day": 293,
+      "category": "Study",
+      "tip": "NCLEX Tip 293",
+      "content": "Spend more time on recurring weak areas than on concepts you already know well."
+    },
+    {
+      "day": 294,
+      "category": "Study",
+      "tip": "NCLEX Tip 294",
+      "content": "Review uncertain correct answers because guessing can hide a knowledge gap."
+    },
+    {
+      "day": 295,
+      "category": "Study",
+      "tip": "NCLEX Tip 295",
+      "content": "Use timed practice occasionally to improve pacing."
+    },
+    {
+      "day": 296,
+      "category": "Study",
+      "tip": "NCLEX Tip 296",
+      "content": "Keep normal study sessions focused rather than multitasking."
+    },
+    {
+      "day": 297,
+      "category": "Study",
+      "tip": "NCLEX Tip 297",
+      "content": "Take planned breaks when concentration drops."
+    },
+    {
+      "day": 298,
+      "category": "Study",
+      "tip": "NCLEX Tip 298",
+      "content": "Protect sleep because fatigue can reduce attention and recall."
+    },
+    {
+      "day": 299,
+      "category": "Study",
+      "tip": "NCLEX Tip 299",
+      "content": "Use hydration, meals, movement, and rest to support sustained preparation."
+    },
+    {
+      "day": 300,
+      "category": "Study",
+      "tip": "NCLEX Tip 300",
+      "content": "Set a small daily target that is easy to measure."
+    },
+    {
+      "day": 301,
+      "category": "Study",
+      "tip": "NCLEX Tip 301",
+      "content": "End each study session by identifying the next topic to review."
+    },
+    {
+      "day": 302,
+      "category": "Study",
+      "tip": "NCLEX Tip 302",
+      "content": "Use your dashboard progress to maintain a realistic study plan."
+    },
+    {
+      "day": 303,
+      "category": "Study",
+      "tip": "NCLEX Tip 303",
+      "content": "Do not measure preparation only by the number of questions completed."
+    },
+    {
+      "day": 304,
+      "category": "Study",
+      "tip": "NCLEX Tip 304",
+      "content": "Measure whether your reasoning and accuracy are improving."
+    },
+    {
+      "day": 305,
+      "category": "Study",
+      "tip": "NCLEX Tip 305",
+      "content": "Review the same difficult concept across multiple sessions."
+    },
+    {
+      "day": 306,
+      "category": "Study",
+      "tip": "NCLEX Tip 306",
+      "content": "Use mixed-topic practice after learning a topic in isolation."
+    },
+    {
+      "day": 307,
+      "category": "Study",
+      "tip": "NCLEX Tip 307",
+      "content": "Return to foundational concepts when advanced questions expose a gap."
+    },
+    {
+      "day": 308,
+      "category": "Study",
+      "tip": "NCLEX Tip 308",
+      "content": "Make study notes concise enough to review quickly."
+    },
+    {
+      "day": 309,
+      "category": "Study",
+      "tip": "NCLEX Tip 309",
+      "content": "Write down the rationale behind a difficult concept, not just the answer."
+    },
+    {
+      "day": 310,
+      "category": "Study",
+      "tip": "NCLEX Tip 310",
+      "content": "Use practice questions to identify knowledge gaps."
+    },
+    {
+      "day": 311,
+      "category": "Study",
+      "tip": "NCLEX Tip 311",
+      "content": "Use content review to close the gaps identified by questions."
+    },
+    {
+      "day": 312,
+      "category": "Study",
+      "tip": "NCLEX Tip 312",
+      "content": "Balance content review with application through questions."
+    },
+    {
+      "day": 313,
+      "category": "Study",
+      "tip": "NCLEX Tip 313",
+      "content": "Practice explaining why each incorrect option is unsafe or inappropriate."
+    },
+    {
+      "day": 314,
+      "category": "Study",
+      "tip": "NCLEX Tip 314",
+      "content": "Build a weekly plan with content, questions, review, and rest."
+    },
+    {
+      "day": 315,
+      "category": "Study",
+      "tip": "NCLEX Tip 315",
+      "content": "Do not wait until the final week to practice clinical judgment."
+    },
+    {
+      "day": 316,
+      "category": "Study",
+      "tip": "NCLEX Tip 316",
+      "content": "Practice reading long case stems without becoming distracted by irrelevant details."
+    },
+    {
+      "day": 317,
+      "category": "Study",
+      "tip": "NCLEX Tip 317",
+      "content": "Use your weakest subject as a deliberate practice target."
+    },
+    {
+      "day": 318,
+      "category": "Study",
+      "tip": "NCLEX Tip 318",
+      "content": "Celebrate improvement in accuracy, pacing, and reasoning."
+    },
+    {
+      "day": 319,
+      "category": "Study",
+      "tip": "NCLEX Tip 319",
+      "content": "Do not compare your study speed with another student's."
+    },
+    {
+      "day": 320,
+      "category": "Study",
+      "tip": "NCLEX Tip 320",
+      "content": "Consistency is more useful than occasional marathon study sessions."
+    },
+    {
+      "day": 321,
+      "category": "Study",
+      "tip": "NCLEX Tip 321",
+      "content": "Study the concepts that are most likely to affect safe nursing decisions."
+    },
+    {
+      "day": 322,
+      "category": "Study",
+      "tip": "NCLEX Tip 322",
+      "content": "Use retrieval practice before rereading notes."
+    },
+    {
+      "day": 323,
+      "category": "Study",
+      "tip": "NCLEX Tip 323",
+      "content": "Review medications using a consistent template."
+    },
+    {
+      "day": 324,
+      "category": "Study",
+      "tip": "NCLEX Tip 324",
+      "content": "Review labs using a consistent template."
+    },
+    {
+      "day": 325,
+      "category": "Study",
+      "tip": "NCLEX Tip 325",
+      "content": "Review disease processes using cause, findings, complications, and nursing priorities."
+    },
+    {
+      "day": 326,
+      "category": "Study",
+      "tip": "NCLEX Tip 326",
+      "content": "Review procedures using preparation, safety, monitoring, and complications."
+    },
+    {
+      "day": 327,
+      "category": "Study",
+      "tip": "NCLEX Tip 327",
+      "content": "Review communication questions using therapeutic principles."
+    },
+    {
+      "day": 328,
+      "category": "Study",
+      "tip": "NCLEX Tip 328",
+      "content": "Review delegation using stability, predictability, complexity, and scope."
+    },
+    {
+      "day": 329,
+      "category": "Study",
+      "tip": "NCLEX Tip 329",
+      "content": "Review infection control by transmission route and required precautions."
+    },
+    {
+      "day": 330,
+      "category": "Study",
+      "tip": "NCLEX Tip 330",
+      "content": "Review priority questions using ABCs, safety, stability, and acute change."
+    },
+    {
+      "day": 331,
+      "category": "Study",
+      "tip": "NCLEX Tip 331",
+      "content": "Keep a short list of concepts you repeatedly confuse."
+    },
+    {
+      "day": 332,
+      "category": "Study",
+      "tip": "NCLEX Tip 332",
+      "content": "Use visual diagrams when a process or sequence is difficult to remember."
+    },
+    {
+      "day": 333,
+      "category": "Study",
+      "tip": "NCLEX Tip 333",
+      "content": "Practice calculations without distractions."
+    },
+    {
+      "day": 334,
+      "category": "Study",
+      "tip": "NCLEX Tip 334",
+      "content": "Check your answer before moving to the next calculation."
+    },
+    {
+      "day": 335,
+      "category": "Study",
+      "tip": "NCLEX Tip 335",
+      "content": "Use post-test review time as part of the test, not optional extra work."
+    },
+    {
+      "day": 336,
+      "category": "Study",
+      "tip": "NCLEX Tip 336",
+      "content": "Focus on learning from incorrect answers rather than protecting your score."
+    },
+    {
+      "day": 337,
+      "category": "Study",
+      "tip": "NCLEX Tip 337",
+      "content": "Review high-yield concepts frequently in short sessions."
+    },
+    {
+      "day": 338,
+      "category": "Study",
+      "tip": "NCLEX Tip 338",
+      "content": "Do not spend most of your study time on topics you already master."
+    },
+    {
+      "day": 339,
+      "category": "Study",
+      "tip": "NCLEX Tip 339",
+      "content": "Use progress trends to adjust your plan."
+    },
+    {
+      "day": 340,
+      "category": "Study",
+      "tip": "NCLEX Tip 340",
+      "content": "Keep a realistic daily workload."
+    },
+    {
+      "day": 341,
+      "category": "Study",
+      "tip": "NCLEX Tip 341",
+      "content": "Protect time for recovery to reduce burnout."
+    },
+    {
+      "day": 342,
+      "category": "Study",
+      "tip": "NCLEX Tip 342",
+      "content": "Use a consistent study location when possible."
+    },
+    {
+      "day": 343,
+      "category": "Study",
+      "tip": "NCLEX Tip 343",
+      "content": "Keep distractions away during focused practice."
+    },
+    {
+      "day": 344,
+      "category": "Study",
+      "tip": "NCLEX Tip 344",
+      "content": "Start with a clear goal instead of opening random study material."
+    },
+    {
+      "day": 345,
+      "category": "Study",
+      "tip": "NCLEX Tip 345",
+      "content": "Finish one learning objective before jumping to another."
+    },
+    {
+      "day": 346,
+      "category": "Study",
+      "tip": "NCLEX Tip 346",
+      "content": "Ask yourself what you can now explain that you could not explain yesterday."
+    },
+    {
+      "day": 347,
+      "category": "Study",
+      "tip": "NCLEX Tip 347",
+      "content": "Make every practice session produce one actionable takeaway."
+    },
+    {
+      "day": 348,
+      "category": "Priority",
+      "tip": "NCLEX Tip 348",
+      "content": "Prioritize airway, breathing, and circulation when the stem describes an immediate threat. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 349,
+      "category": "Priority",
+      "tip": "NCLEX Tip 349",
+      "content": "Choose the unstable client before a stable client when findings show deterioration. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 350,
+      "category": "Priority",
+      "tip": "NCLEX Tip 350",
+      "content": "Address an actual life-threatening problem before a potential complication. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 351,
+      "category": "Priority",
+      "tip": "NCLEX Tip 351",
+      "content": "Use the word 'first' to identify the intervention that must happen before the others. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 352,
+      "category": "Priority",
+      "tip": "NCLEX Tip 352",
+      "content": "Do not delay emergency treatment for a nonessential assessment step. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 353,
+      "category": "Priority",
+      "tip": "NCLEX Tip 353",
+      "content": "Compare vital signs with the client's symptoms instead of reading one number in isolation. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 354,
+      "category": "Priority",
+      "tip": "NCLEX Tip 354",
+      "content": "Sudden confusion or reduced consciousness can be a sign of clinical deterioration. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 355,
+      "category": "Priority",
+      "tip": "NCLEX Tip 355",
+      "content": "New severe chest pain deserves priority over routine comfort needs. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 356,
+      "category": "Priority",
+      "tip": "NCLEX Tip 356",
+      "content": "New respiratory distress should move ahead of routine teaching or documentation. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 357,
+      "category": "Priority",
+      "tip": "NCLEX Tip 357",
+      "content": "Unexpected bleeding after a procedure requires prompt assessment and escalation. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 358,
+      "category": "Priority",
+      "tip": "NCLEX Tip 358",
+      "content": "Look for changes from baseline when deciding which client needs attention first. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 359,
+      "category": "Priority",
+      "tip": "NCLEX Tip 359",
+      "content": "Use safety as the tie-breaker when two answers appear clinically reasonable. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 360,
+      "category": "Priority",
+      "tip": "NCLEX Tip 360",
+      "content": "Stable chronic findings are usually lower priority than a new acute change. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 361,
+      "category": "Priority",
+      "tip": "NCLEX Tip 361",
+      "content": "Ask which option prevents the greatest immediate harm. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 362,
+      "category": "Priority",
+      "tip": "NCLEX Tip 362",
+      "content": "Do not let a familiar diagnosis distract you from the most dangerous current finding. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 363,
+      "category": "Priority",
+      "tip": "NCLEX Tip 363",
+      "content": "When circulation is compromised, think about perfusion, blood pressure, mental status, and urine output. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 364,
+      "category": "Priority",
+      "tip": "NCLEX Tip 364",
+      "content": "An abnormal finding becomes more urgent when it is worsening over time. Use the evidence in the stem to support your choice."
+    },
+    {
+      "day": 365,
+      "category": "Priority",
+      "tip": "NCLEX Tip 365",
+      "content": "Prioritize the client whose condition could deteriorate rapidly. Use the evidence in the stem to support your choice."
+    }
+  ]
+}
